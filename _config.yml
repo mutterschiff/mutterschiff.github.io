@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Den Bach runtergehen. Oder wie man einen Weidling umbaut und die Aare runterfährt. 🐳 🏝️ 🚣 🌊 🐙 💦 
+title: Den Bach runtergehen. 🐳 🏝️ 🚣 🌊 🐙 💦 
 subtitle: 
 description: # this means to ignore newlines until "baseurl:"
 baseurl: ""  		# the subpath of your site, e.g. /blog

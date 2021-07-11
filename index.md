@@ -11,12 +11,9 @@ layout: home
 &nbsp;
 &nbsp;
 
-# Den Bach runtergehen. 🐳 🏝️ 🚣 🌊 🐙 💦
-## Oder: wie man einen Weidling umbaut und die Aare runterfährt. 
+## Wie man einen Weidling umbaut und die Aare runterfährt. 
 
-> ### Anleitung in {{ site.posts | size }} Schritten.
-
-  <div><img src="/img/splash.jpg"></div>
+> ### Eine Anleitung in {{ site.posts | size }} Schritten.
 
   <div><img src="/img/splash.jpg"></div>
 
