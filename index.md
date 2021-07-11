@@ -15,16 +15,7 @@ layout: home
 
 > ### Eine Anleitung in {{ site.posts | size }} Schritten.
 
-    <div class="container" style="display: flex; height: 100px;">
-        <div style="width: 50%;">
-            <img src="/img/splash.jpg">
-        </div>
-        <div style="flex-grow: 1;">
-            <i><b>D Aare geit ids Meer. U im Tierpark hets Meersäuli.</b></i> Stiller Has - Aare
-        </div>
-    </div>
 
-<!--
   <div><img src="/img/splash.jpg"></div>
 
 
@@ -32,7 +23,7 @@ layout: home
 <br/>
  <i><b>D Aare geit ids Meer. U im Tierpark hets Meersäuli.</b></i> Stiller Has - Aare
 </div>
--->
+
 
 
 
