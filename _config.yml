@@ -29,7 +29,7 @@ url: "https://deinemutterschiff.github.io" # the base hostname & protocol for yo
 # Build settings
 # theme: jekyll-theme-scaffold
 
-remote_theme: daattali/beautiful-jekyll
+# remote_theme: daattali/beautiful-jekyll
 
 # theme: huxpro.github.io
 
