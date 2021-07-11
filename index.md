@@ -11,11 +11,18 @@ layout: home
 &nbsp;
 &nbsp;
 
+# Den Bach runtergehen. 🐳 🏝️ 🚣 🌊 🐙 💦
+## Oder: wie man einen Weidling umbaut und die Aare runterfährt. 
+
+> ### Anleitung in {{ site.posts | size }} Schritten.
+
+  <div><img src="/img/splash.jpg"></div>
+
   <div><img src="/img/splash.jpg"></div>
 
 <div>
 <br/>
-<i>D Aare geit ids Meer. U im Tierpark hets Meersäuli.</i>Stiller Has - Aare
+<i><b>D Aare geit ids Meer. U im Tierpark hets Meersäuli.</b></i> Stiller Has - Aare
 </div>
 
 
