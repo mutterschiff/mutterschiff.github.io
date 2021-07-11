@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: D Aare geit ids Meer. U im Tierpark hets Meersäuli
-subtitle: Stiller Has - Aare
+title: Den Bach runtergehen. Oder wie man einen Weidling umbaut und die Aare runterfährt. 🐳 🏝️ 🚣 🌊 🐙 💦 
+subtitle: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Den Bach runtergehen. Oder wie man einen Weidling umbaut und die Aare runterfährt.
+  D Aare geit ids Meer. U im Tierpark hets Meersäuli Stiller Has - Aare
 baseurl: ""  		# the subpath of your site, e.g. /blog
 url: "https://deinemutterschiff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -29,7 +29,6 @@ url: "https://deinemutterschiff.github.io" # the base hostname & protocol for yo
 
 # Build settings
 # theme: jekyll-theme-scaffold
-# remote_ theme: sziv2p/jekyll-theme-scaffold
 
 remote_theme: daattali/beautiful-jekyll
 
