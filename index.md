@@ -12,8 +12,9 @@ layout: home
 &nbsp;
 
   <div><img src="/img/splash.jpg"></div>
-</br>
-'D Aare geit ids Meer. U im Tierpark hets Meersäuli.'</br>
+
+>D Aare geit ids Meer. U im Tierpark hets Meersäuli.
+
 Stiller Has - Aare
 
 
