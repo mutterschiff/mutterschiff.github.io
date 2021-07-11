@@ -11,7 +11,9 @@ layout: home
 &nbsp;
 &nbsp;
 
-  <div><img src="/img/splash.jpg"></div>
+  <div><img src="/img/splash.jpg">test</div>
+
+
 
 
 
