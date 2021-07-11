@@ -12,6 +12,7 @@ Als erstes muss man einen Weidling geschenkt kriegen. Dazu ist man am besten imm
 
 
 Nettsein allein bringt aber nicht immer was. Um dem ganzen nachzuhelfen, hilft vielleicht ja auch einfach ein schlichtes Inserat unter dem Fahrzeugmarkt?
+
 ![weidling](/img/weidling_ausschreibung.jpg)
 
 
