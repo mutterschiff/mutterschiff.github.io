@@ -31,6 +31,8 @@ url: "https://deinemutterschiff.github.io" # the base hostname & protocol for yo
 # theme: jekyll-theme-scaffold
 # remote_theme: daattali/beautiful-jekyll
 
+theme: jekyll-theme-cayman
+
 excerpt_separator: "\n\n"
 
 plugins:
