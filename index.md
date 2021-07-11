@@ -9,7 +9,6 @@ layout: home
 &nbsp;
 &nbsp;
 &nbsp;
-test
 &nbsp;
 &nbsp;
 &nbsp;
@@ -22,6 +21,5 @@ Stiller Has - Aare
 
   <div><img src="/img/splash.jpg"></div>
 
-> ### Anleitung in {{ site.posts | size }} Schritten.
 
 
