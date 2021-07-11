@@ -11,9 +11,9 @@ layout: home
 &nbsp;
 &nbsp;
 
-  <div><img src="/img/splash.jpg"></div>
+  <div><img src="/img/splash.jpg">_D Aare geit ids Meer. U im Tierpark hets Meersäuli_ Stiller Has - Aare</div>
 
-_D Aare geit ids Meer. U im Tierpark hets Meersäuli_ Stiller Has - Aare
+
 
 
 
