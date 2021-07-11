@@ -16,7 +16,7 @@ Ein Weidling wird auf Flüssen entweder gerudert (im Stehen) oder gestachelt, sp
 
 >Ur-šanabi und Gilgameš kommen trotz Schwierigkeiten bei der Überfahrt schließlich bei Uta-napišti auf seiner Insel „Land der Seligen“ an.[^4]
 
-[![weidling](/mutterschiff/img/stangen_ruder.jpg)](/mutterschiff/img/stangen_ruder.jpg)
+[![weidling](/img/stangen_ruder.jpg)](/img/stangen_ruder.jpg)
 *Zwei Ruder unterschiedlicher Grösse und zwei Stachel - vielen Dank an dieser Stelle an <nobr>Alfred</nobr> für die Beschaffung!*
 
 

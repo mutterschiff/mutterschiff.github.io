@@ -15,36 +15,36 @@ Den passenden Kartenabschnitt Olten - Aarau [dazu gibts hier](https://aarelauf.c
 ## 1. Stauwehr Winznau
 Als erstes wird das Stauwehr Winznau inspiziert. Gemäss Karte läuft ab diesem Stauwehr rechts die alte Aare weiter durch den Gösger Schachen, neben dem AKW-Gösgen vorbei und durch den Bally-Park. Das ist aber alles gar keine Option. Es gilt nach einigen Kurven vor dem Stauwehr Winznau ziemlich scharf links abzubiegen.
 
-[![weidling](/mutterschiff/img/winznau0.jpg)](/mutterschiff/img/winznau0.jpg)
+[![weidling](/img/winznau0.jpg)](/img/winznau0.jpg)
 *Anfahrt*
 
-[![weidling](/mutterschiff/img/winznau2.jpg)](/mutterschiff/img/winznau2.jpg)
+[![weidling](/img/winznau2.jpg)](/img/winznau2.jpg)
 *links halten*
 
-[![weidling](/mutterschiff/img/winznau3.jpg)](/mutterschiff/img/winznau3.jpg)
+[![weidling](/img/winznau3.jpg)](/img/winznau3.jpg)
 
 
 Interessant ist die Geschichte der ehemaligen Fähren vor Ort.
-[![weidling](/mutterschiff/img/winznau1.jpg)](/mutterschiff/img/winznau1.jpg)
+[![weidling](/img/winznau1.jpg)](/img/winznau1.jpg)
 
 
 ## 2. Elektrizitätswerk Gösgen
 Beim Elektrizitätswerk Gösgen muss rechtsufrig auf eine Art Schlitten gefahren werden.
-[![weidling](/mutterschiff/img/goesgen0.jpg)](/mutterschiff/img/goesgen0.jpg)
+[![weidling](/img/goesgen0.jpg)](/img/goesgen0.jpg)
 
 Und nach dem Werk wird man dann wieder ins Wasser gelassen.
-[![weidling](/mutterschiff/img/goesgen1.jpg)](/mutterschiff/img/goesgen1.jpg)
+[![weidling](/img/goesgen1.jpg)](/img/goesgen1.jpg)
 
 
 ## 3. Schönenwerd
 In Schönenwerd ist linksufrig vor dem Werk auf ein Bähnchen zu fahren! :)
-[![weidling](/mutterschiff/img/schoenenwerd4.jpg)](/mutterschiff/img/schoenenwerd4.jpg)
+[![weidling](/img/schoenenwerd4.jpg)](/img/schoenenwerd4.jpg)
 
-[![weidling](/mutterschiff/img/schoenenwerd3.jpg)](/mutterschiff/img/schoenenwerd3.jpg)
+[![weidling](/img/schoenenwerd3.jpg)](/img/schoenenwerd3.jpg)
 
-[![weidling](/mutterschiff/img/schoenenwerd2.jpg)](/mutterschiff/img/schoenenwerd2.jpg)
+[![weidling](/img/schoenenwerd2.jpg)](/img/schoenenwerd2.jpg)
 
-[![weidling](/mutterschiff/img/schoenenwerd1.jpg)](/mutterschiff/img/schoenenwerd1.jpg)
+[![weidling](/img/schoenenwerd1.jpg)](/img/schoenenwerd1.jpg)
 
 Das dürfte dann wohl auch ein ziemlicher Spass werden.
 
@@ -63,30 +63,31 @@ Das bedeutete: Brugg ist ein einigermassen schmaler Flaschenhals.
 
 Dadurch erhöht sich hier die Fliessgeschwindigkeit. Bei wenig Wasser dürfte der unübersichtliche Untergrund und die schmale Felsrinne die hauptsächliche Schwierigkeit sein. Bei viel Wasser wiederum, sieht es einigermassen wild aus. Aus diesem Grund ist Brugg die Schlüsselstelle auf dem Weg der Aare in die Nordsee. Wasserstand bei Besichtigung: 650m³/s.
 
-[![weidling](/mutterschiff/img/brugg0.jpg)](/mutterschiff/img/brugg0.jpg)
+[![weidling](/img/brugg0.jpg)](/img/brugg0.jpg)
 *Kurz vor Brugg sieht die Aare richtig breit und einigermassen gemächlich aus.*
 
-[![weidling](/mutterschiff/img/brugg1.jpg)](/mutterschiff/img/brugg1.jpg)
+[![weidling](/img/brugg1.jpg)](/img/brugg1.jpg)
 *Nach der Eisenbahnbrücke wird aber alles enger und schneller.*
 
-[![weidling](/mutterschiff/img/brugg2.jpg)](/mutterschiff/img/brugg2.jpg)
+[![weidling](/img/brugg2.jpg)](/img/brugg2.jpg)
 *Trotzdem ist die Passage durchaus schiffbar.*
 
-[![weidling](/mutterschiff/img/brugg3.jpg)](/mutterschiff/img/brugg3.jpg)
+[![weidling](/img/brugg3.jpg)](/img/brugg3.jpg)
 
-[![weidling](/mutterschiff/img/brugg6.jpg)](/mutterschiff/img/brugg6.jpg)
+[![weidling](/img/brugg6.jpg)](/img/brugg6.jpg)
 
-[![weidling](/mutterschiff/img/brugg7.jpg)](/mutterschiff/img/brugg7.jpg)
+[![weidling](/img/brugg7.jpg)](/img/brugg7.jpg)
 
-[![weidling](/mutterschiff/img/brugg8.jpg)](/mutterschiff/img/brugg8.jpg)
+[![weidling](/img/brugg8.jpg)](/img/brugg8.jpg)
 
-[![weidling](/mutterschiff/img/brugg5.jpg)](/mutterschiff/img/brugg5.jpg)
+[![weidling](/img/brugg5.jpg)](/img/brugg5.jpg)
 
-[![weidling](/mutterschiff/img/brugg4.jpg)](/mutterschiff/img/brugg4.jpg)
+[![weidling](/img/brugg4.jpg)](/img/brugg4.jpg)
 *Und schon wird man hinten ausgespuckt.*
 
 Nur kurz nach Brugg landet man in der [Stilli](https://de.wikipedia.org/wiki/Stilli). Hier gab es früher auch einen Fährübergang.
-[![weidling](/mutterschiff/img/inderstille.jpg)](/mutterschiff/img/inderstille.jpg)
+[![weidling](/img/inderstille.jpg)](/img/inderstille.jpg)
 
 [^1]: https://de.wikipedia.org/wiki/Brugg
 [^2]: https://aarelauf.ch/die-aareschlucht-in-brugg/
+

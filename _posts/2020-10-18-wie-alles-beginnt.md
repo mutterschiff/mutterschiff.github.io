@@ -12,12 +12,13 @@ Als erstes muss man einen Weidling geschenkt kriegen. Dazu ist man am besten imm
 
 
 Nettsein allein bringt aber nicht immer was. Um dem ganzen nachzuhelfen, hilft vielleicht ja auch einfach ein schlichtes Inserat unter dem Fahrzeugmarkt?
-![weidling](/mutterschiff/img/weidling_ausschreibung.jpg)
+![weidling](/img/weidling_ausschreibung.jpg)
 
 
 Das Inserat hat leider nicht funktioniert. Nettsein und Weidling geschenkt kriegen dann aber doch noch. Vielen Dank Urs an dieser Stelle. Nach der Schenkung freut man sich sehr und holt den Weidling mit einem Anhänger ab und fährt ihn nach Hause. Vielen Dank an Marco an dieser 
 Stelle!
 
-![weidling](/mutterschiff/img/1.jpg)
+![weidling](/img/1.jpg)
 *18.10.2020 - wir holen den Weidling ab*
+
 
