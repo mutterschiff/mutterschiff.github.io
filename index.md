@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Den Bach runtergehen. 🐳 🏝️ 🚣‍♂️ 🌊 🐙 💦
+# Den Bach runtergehen. 🐳 🏝️ 🚣 🌊 🐙 💦
 ## Oder: wie man einen Weidling umbaut und die Aare runterfährt. 
 
 > ### Anleitung in {{ site.posts | size }} Schritten.
