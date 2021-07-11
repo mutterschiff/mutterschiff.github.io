@@ -16,13 +16,12 @@ test
 &nbsp;
 
 
-> ### Anleitung in {{ site.posts | size }} Schritten.
+> D Aare geit ids Meer. U im Tierpark hets Meersäuli
 
-> D Aare geit ids Meer. U im Tierpark hets Meersäuli 
 Stiller Has - Aare
 
   <div><img src="/img/splash.jpg"></div>
 
-
+> ### Anleitung in {{ site.posts | size }} Schritten.
 
 
