@@ -10,13 +10,6 @@ layout: home
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-> D Aare geit ids Meer. U im Tierpark hets Meersäuli
-Stiller Has - Aare
 
   <div><img src="/img/splash.jpg"></div>
 
