@@ -22,8 +22,8 @@ title: D Aare geit ids Meer. U im Tierpark hets Meersäuli
 subtitle: Stiller Has - Aare
 description: >- # this means to ignore newlines until "baseurl:"
   Den Bach runtergehen. Oder wie man einen Weidling umbaut und die Aare runterfährt.
-baseurl: "/mutterschiff"  		# the subpath of your site, e.g. /blog
-url: "https://fussballfrei.be/mutterschiff" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""  		# the subpath of your site, e.g. /blog
+url: "https://deinemutterschiff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
