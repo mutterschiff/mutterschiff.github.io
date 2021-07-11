@@ -15,9 +15,7 @@ layout: home
 
 <div>
 <br/>
->D Aare geit ids Meer. U im Tierpark hets Meersäuli.
-
-Stiller Has - Aare
+<i>D Aare geit ids Meer. U im Tierpark hets Meersäuli.</i>Stiller Has - Aare
 </div>
 
 
