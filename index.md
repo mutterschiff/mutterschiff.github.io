@@ -11,7 +11,9 @@ layout: home
 &nbsp;
 &nbsp;
 
-  <div><img src="/img/splash.jpg">test</div>
+  <div><img src="/img/splash.jpg"></div>
+
+_D Aare geit ids Meer. U im Tierpark hets Meersäuli_ Stiller Has - Aare
 
 
 
