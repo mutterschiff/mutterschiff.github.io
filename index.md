@@ -10,7 +10,7 @@ layout: home
 
 > ### Anleitung in {{ site.posts | size }} Schritten.
 
-  <div><img src="/mutterschiff/img/splash.jpg"></div>
+  <div><img src="/img/splash.jpg"></div>
 
 
 
