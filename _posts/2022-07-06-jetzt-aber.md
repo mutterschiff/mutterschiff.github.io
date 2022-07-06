@@ -6,7 +6,7 @@ date: 2022-07-06
 
 ## Sintflut, Klimawandel und das Mutterschiff ##
 
-Letztes Jahr wurde unsere Fahrt sintflutartige Regenfälle unmöglich gemacht und schliesslich verschoben.
+Letztes Jahr wurde unsere Fahrt durch sintflutartige Regenfälle unmöglich gemacht und schliesslich verschoben.
 
 Nun soll es dieses Wochenende aber endlich losgehen! Das _Mutterschiff_ ist parat und wir auch!
 
