@@ -26,6 +26,8 @@ url: "https://deinemutterschiff.github.io" # the base hostname & protocol for yo
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+site.data.navigation: true
+
 # Build settings
 # theme: jekyll-theme-scaffold
 
