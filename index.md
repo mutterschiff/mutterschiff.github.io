@@ -5,6 +5,10 @@
 layout: home
 ---
 
+<div class="navbar-collapse collapse show" id="main-navbar" style="">
+    <ul class="navbar-nav ml-auto">:)</ul>
+  </div>
+
 &nbsp;
 &nbsp;
 &nbsp;
