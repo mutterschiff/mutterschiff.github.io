@@ -8,7 +8,10 @@ date: 2022-07-06
 
 Letztes Jahr wurde unsere Fahrt sintflutartige Regenfälle unmöglich gemacht und schliesslich verschoben.
 
-Nun soll es dieses Wochenendr aber endlich losgehen! Das Mutterschiff ist parat und wir auch!
+Nun soll es dieses Wochenende aber endlich losgehen! Das _Mutterschiff_ ist parat und wir auch!
 
-Im Folgenden die geplante Strecke, Aare bis ans Meer. Das Bild stammt von Wikipedia und zeigt den Oberlauf der Aare nicht korrekt an, aber das ist auch egal.
-![](https://de.m.wikipedia.org/wiki/Rhein#/media/Datei%3ARhein-Karte2.png "Verlauf Aare").
+Im Folgenden die geplante Strecke, Aare bis ans Meer. Das Bild stammt von [Wikipedia](https://de.m.wikipedia.org/wiki/Rhein#/media/Datei%3ARhein-Karte2.png) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)) und zeigt den Oberlauf der Aare nicht korrekt an bzw. überbetont den Oberrhein.
+
+![Die Aare fliesst ins Meer.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rhein-Karte2.png/570px-Rhein-Karte2.png) 
+
+Eine detaillierte Karte ist [hier](https://upload.wikimedia.org/wikipedia/commons/5/53/Flusssystemkarte_Rhein_02.jpg) zu finden.
