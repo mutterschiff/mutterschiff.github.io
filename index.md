@@ -5,8 +5,6 @@
 layout: home
 ---
 
-{% include nav.html %}
-
 &nbsp;
 &nbsp;
 &nbsp;
