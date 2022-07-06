@@ -2,8 +2,7 @@
   <a class="masthead-title" href="{{ '/' | relative_url }}" title="Home">'{{ site.title }} {{ site.tagline }} {{ site.subtitle }}'</a>
   <small class="masthead-tagline">{{ site.tagline }} {{ site.subtitle }}</small>
   {% if site.data.navigation %}
-  <!--
-    <nav class="nav">
+  <nav class="nav">
       <ul class="nav-list">
       {%- for item in site.data.navigation -%}
         <li class="nav-item">
@@ -12,8 +11,7 @@
       {%- endfor -%}
       </ul>
     </nav>
-  -->
-  <ul class="navbar-nav ml-auto">hello :)</ul>
+  <ul class="navbar-nav ml-auto"></ul>
   {% endif %}
 </header>
 
