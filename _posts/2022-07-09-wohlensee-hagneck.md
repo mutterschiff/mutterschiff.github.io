@@ -63,11 +63,9 @@ Unten angekommen öffnet sich das Tor und wir rudern raus:
 
 ![](/img/20220711_ms11.jpg)
 
-*Und auch über das Kraftwerk Aarberg.*
-
 ![](/img/20220711_ms12.jpg)
 
-Schliesslich kommen wir nach Aarberg in den Hagneck-Kanal und machen das Mutterschiff in einer wunderschönen Bucht fest.
+*Dasselbe in Grün beim Kraftwerk Aarberg. Schliesslich kommen wir nach Aarberg in den Hagneck-Kanal und machen das Mutterschiff in einer wunderschönen Bucht fest.
 
 ![](/img/20220711_ms13.jpg)
 
@@ -79,3 +77,5 @@ Schliesslich haben wir eine flexible Position mit einer Spreizstange erreicht.
 Lagerfeuer, Essen wunderbare Übernachtung.
 
 ![](/img/20220711_ms15.jpg)
+
+Not #vanlife.
