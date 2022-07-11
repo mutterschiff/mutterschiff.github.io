@@ -57,16 +57,25 @@ Unten angekommen öffnet sich das Tor und wir rudern raus:
 
 ![](/img/20220711_ms9.jpg)
 
-*Ein Wägelchen transportiert das Mutterschiff über das Kraftwerk Aarberg.*
+*Ein Wägelchen transportiert das Mutterschiff über das Kraftwerk Niederried.*
 
 ![](/img/20220711_ms10.jpg)
 
 ![](/img/20220711_ms11.jpg)
 
+*Und auch über das Kraftwerk Aarberg.*
+
 ![](/img/20220711_ms12.jpg)
+
+Schliesslich kommen wir nach Aarberg in den Hagneck-Kanal und machen das Mutterschiff in einer wunderschönen Bucht fest.
 
 ![](/img/20220711_ms13.jpg)
 
+Weil das Kraftwerk Aarberg den Pegel erhöht und wieder senkt, bleibt das Mutterschiff fast auf dem Trockenen hängen.
+Schliesslich haben wir eine flexible Position mit einer Spreizstange erreicht.
+
 ![](/img/20220711_ms14.jpg)
+
+Lagerfeuer, Essen wunderbare Übernachtung.
 
 ![](/img/20220711_ms15.jpg)
