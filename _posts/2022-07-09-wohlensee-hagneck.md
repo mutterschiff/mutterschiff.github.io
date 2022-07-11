@@ -39,7 +39,7 @@ Unten angekommen öffnet sich das Tor und wir rudern raus:
 
 ![](/img/20220711_ms1.jpg)
 
-*Kernkraftwerk Mühleberg - glücklicherweise im Rückbau*
+*Kernkraftwerk Mühleberg - glücklicherweise im Rückbau. Jetzt müsste dann irgendwann noch eine Lösung zur Endlagerung gefunden werden. 🙈*
 
 ![](/img/20220711_ms2.jpg)
 
@@ -53,7 +53,11 @@ Unten angekommen öffnet sich das Tor und wir rudern raus:
 
 ![](/img/20220711_ms7.jpg)
 
+*Vor Aarberg*
+
 ![](/img/20220711_ms9.jpg)
+
+*Ein Wägelchen transportiert das Mutterschiff über das Kraftwerk Aarberg.*
 
 ![](/img/20220711_ms10.jpg)
 
@@ -66,7 +70,3 @@ Unten angekommen öffnet sich das Tor und wir rudern raus:
 ![](/img/20220711_ms14.jpg)
 
 ![](/img/20220711_ms15.jpg)
-
-
-
-
