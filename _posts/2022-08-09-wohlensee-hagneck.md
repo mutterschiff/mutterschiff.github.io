@@ -6,7 +6,7 @@ date:   2022-08-09
 
 ## Mutterschiff fährt Lift ##
 
-Von der Wohleibrücke wird über den halben Wohlensee gerudert, der äusseest seicht ist.
+Von der Wohleibrücke wird über den halben Wohlensee gerudert, der äusserst seicht ist.
 Danach wird der Motor angeschmissen, weil wir mit dem Zuständigen des Bootstransports des Kraftwerks Mühleberg verabredet sind.
 
 Blick übers Heck auf unseren Kräuterbalkon
