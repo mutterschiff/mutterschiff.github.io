@@ -20,9 +20,15 @@ Anfahrt auf den Bootslift des Wasserkraftwerk Mühleberg:
 
 ![](/img/20220711_ms_res__10.jpg)
 
-
-
-
 Um 12.05 Uhr befährt das Mutterschiff das erste Mal einen Lift:
-![](/img/20220711_ms_res__7.jpg)
- 
+![](/img/20220711_ms_res__11.jpg) 
+
+Nach der Einfahrt wird das Wasser abgelassen und der Lift in Bewegung gesetzt:
+![](/img/20220711_ms_res__12.jpg)
+
+![](/img/20220711_ms_res__13.jpg)
+
+![](/img/20220711_ms_res__14.jpg)
+
+Unten angekommen öffnet sich das Tor und wir rudern raus: 
+![](/img/20220711_ms_res__15.jpg)
