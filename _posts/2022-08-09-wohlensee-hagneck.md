@@ -9,6 +9,20 @@ date:   2022-08-09
 Von der Wohleibrücke wird über den halben Wohlensee gerudert, der äusseest seicht ist.
 Danach wird der Motor angeschmissen, weil wir mit dem Zuständigen des Bootstransports des Kraftwerks Mühleberg verabredet sind.
 
+Blick übers Heck auf unseren Kräuterbalkon
+![](/img/20220711_ms_res__7.jpg)
+
+![](/img/20220711_ms_res__8.jpg)
+*Wohlensee*
+
+Anfahrt auf den Bootslift des Wasserkraftwerk Mühleberg:
+![](/img/20220711_ms_res__9.jpg)
+
+![](/img/20220711_ms_res__10.jpg)
+
+
+
+
 Um 12.05 Uhr befährt das Mutterschiff das erste Mal einen Lift:
 ![](/img/20220711_ms_res__7.jpg)
  
