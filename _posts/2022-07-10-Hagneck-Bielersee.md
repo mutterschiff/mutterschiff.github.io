@@ -6,7 +6,7 @@ date:   2022-07-10
 
 ## Mutterschiff fährt Zug ##
 
-Nach dieser tiefentspannten Nacht gehts weiter Richtung Hagneck-Stauwehr, wo die Aare in den Bieleesee einläuft.
+Nach dieser tiefentspannten Nacht geht's weiter Richtung Hagneck-Stauwehr, wo die Aare in den Bieleesee einläuft.
 
 ![](/img/20220711_ms_res_Hagneck_0.jpg)
 
@@ -17,7 +17,7 @@ Nach dieser tiefentspannten Nacht gehts weiter Richtung Hagneck-Stauwehr, wo die
 ![](/img/20220711_ms_res_Hagneck_3.jpg)
 
 Auf Anruf wird unser Mutterschiff von einem Gleiswagen abgeholt.
-
+Man beachte hierbei den neu installierten Sonnenschirm.
 ![](/img/20220711_ms_res_Hagneck_4.jpg)
 
 ![](/img/20220711_ms_res_Hagneck_5.jpg)
@@ -35,7 +35,7 @@ Schliesslich fahren wir bei Nidau erneut in die Aare ein.
 
 ![](/img/20220711_ms_res_Hagneck_9.jpg)
 
-Bei Port/Brügg fährt *the mothersip* in die erste Schleuse.
+Bei Port/Brügg fährt *the mothership* in die erste Schleuse.
 
 ![](/img/20220711_ms_res_Hagneck_10.jpg)
 
