@@ -33,25 +33,25 @@ Nach der Einfahrt wird das Wasser abgelassen und der Lift in Bewegung gesetzt:
 Unten angekommen öffnet sich das Tor und wir rudern raus: 
 ![](/img/20220711_ms_res__15.jpg)
 
-### Von Mühleberg bis in den Hagneck-Kanal ###
-
 ![](/img/20220711_ms0.jpg)
+
+### Von Mühleberg bis in den Hagneck-Kanal ###
 
 ![](/img/20220711_ms1.jpg)
 
-![](/img/20220711_ms2.jpg)
+*Kernkraftwerk Mühleberg - glücklicherweise im Rückbau*
 
-![](/img/20220711_ms3.jpg)
+![](/img/20220711_ms2.jpg)
 
 ![](/img/20220711_ms4.jpg)
 
 ![](/img/20220711_ms5.jpg)
 
+*Einfluss der Saane von links*
+
 ![](/img/20220711_ms6.jpg)
 
 ![](/img/20220711_ms7.jpg)
-
-![](/img/20220711_ms8.jpg)
 
 ![](/img/20220711_ms9.jpg)
 
