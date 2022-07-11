@@ -32,3 +32,10 @@ Nach der Einfahrt wird das Wasser abgelassen und der Lift in Bewegung gesetzt:
 
 Unten angekommen öffnet sich das Tor und wir rudern raus: 
 ![](/img/20220711_ms_res__15.jpg)
+
+### Von Mühleberg bis in den Hagneck-Kanal ###
+
+![](/img/20220711_ms0.jpg)
+
+![](/img/20220711_ms1.jpg)
+
