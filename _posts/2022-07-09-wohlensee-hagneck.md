@@ -65,7 +65,7 @@ Unten angekommen öffnet sich das Tor und wir rudern raus:
 
 ![](/img/20220711_ms12.jpg)
 
-*Dasselbe in Grün beim Kraftwerk Aarberg. Schliesslich kommen wir nach Aarberg in den Hagneck-Kanal und machen das Mutterschiff in einer wunderschönen Bucht fest.
+Dasselbe in Grün beim Kraftwerk Aarberg. Schliesslich kommen wir nach Aarberg in den Hagneck-Kanal und machen das Mutterschiff in einer wunderschönen Bucht fest.
 
 ![](/img/20220711_ms13.jpg)
 
