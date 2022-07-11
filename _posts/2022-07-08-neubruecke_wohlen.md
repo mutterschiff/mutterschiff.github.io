@@ -6,7 +6,7 @@ date:   2022-07-08 17:05
 
 ## Mutterschiff startet endlich ##
 
-7.8.2022 - Takeoff Mutterschiff - endlich geht's los! In Neubrücke wird eingewassert und zur Wohleibrücke gefahren werden.
+8.7.2022 - Takeoff Mutterschiff - endlich geht's los! In Neubrücke wird eingewassert und zur Wohleibrücke gefahren werden.
 
 [![Einwassern](/img/20220711_ms_res__0.jpg)](/img/20220711_ms_res__0.jpg)
 
