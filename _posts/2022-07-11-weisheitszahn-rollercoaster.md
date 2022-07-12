@@ -32,10 +32,10 @@ Mutterschiff wird schön bei den Besuchsparkplätzen (Landisteg) festgemacht.
 ![](/img/20220712_ms_res_solo_5.jpg)
 
 Nun wird der Zahnarzt aufgesucht. Zahnarzt Grolimund findet sich nur einige hundert Meter weiter in der Stadt:
-![](/img/IMG_20220712_145840.JPG)
+![](/img/solothurn-map.jpg)
 
 Nach gründlicher Anamnese wird der Schuldige schnell gefunden: Der Weisheitszahn muss weg. Glücklicherweise handelt es sich um einen Weisheitszahn mit einer Pfahlwurzel.
-Herr Grolimund zieht diesen Weisheitszahn gedchmeidigst aus dem Kieferknochen des dentalhyhiensi und dies auch noch in kürzester Zeit. Selten wurden 200.- Franken so gut investiert.
+Herr Grolimund zieht diesen Weisheitszahn geschmeidigst aus dem Kieferknochen des Crewmitglieds und dies auch noch in kürzester Zeit. Selten wurden 200.- Franken so gut investiert.
 Wer also einen dentalmedizinischen Notfall hat und mit dem Schiff unterwegs ist, this is the Goldstandard.
 
 ![](/img/20220712_ms_res_solo_6.jpg)
