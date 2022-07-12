@@ -84,6 +84,8 @@ Nun fahren wir das Kraftwerk Wynau an, unser bisheriger Favorit.
 
 ![](/img/20220712_ms_res_solo_21.jpg)
 
+Wir begegnen der Fähre Wynau, die aber aufgrund Wassermangel nicht fährt.
+
 ![](/img/20220712_ms_res_solo_22.jpg)
 
 ![](/img/20220712_ms_res_solo_23.jpg)
