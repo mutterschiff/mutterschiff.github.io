@@ -47,9 +47,13 @@ Nun steuern wir die ehemalige Cellulosefabrik Attisholz an:
 
 ![](/img/20220712_ms_res_solo_8.jpg)
 
+Wo wir kurz verweilen, um bald das nächste Kraftwerk zu passieren:
+
 ![](/img/20220712_ms_res_solo_9.jpg)
 
 ![](/img/20220712_ms_res_solo_10.jpg)
+
+Und gleich darauf nochmal:
 
 ![](/img/20220712_ms_res_solo_11.jpg)
 
@@ -57,11 +61,16 @@ Nun steuern wir die ehemalige Cellulosefabrik Attisholz an:
 
 ![](/img/20220712_ms_res_solo_13.jpg)
 
+Durch schöne Flussläufe fahren wir bei Aarwangen vorbei.
+
 ![](/img/20220712_ms_res_solo_14.jpg)
 
 ![](/img/20220712_ms_res_solo_15.jpg)
+*Schloss Aarwangen*
 
 ![](/img/20220712_ms_res_solo_16.jpg)
+
+### Mutterschiff fährt Roller-Coaster ###
 
 ![](/img/20220712_ms_res_solo_17.jpg)
 
@@ -74,8 +83,6 @@ Nun steuern wir die ehemalige Cellulosefabrik Attisholz an:
 ![](/img/20220712_ms_res_solo_21.jpg)
 
 ![](/img/20220712_ms_res_solo_22.jpg)
-
-### Mutterschiff fährt Roller-Coaster ###
 
 ![](/img/20220712_ms_res_solo_23.jpg)
 
