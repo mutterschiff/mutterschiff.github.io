@@ -15,8 +15,7 @@ published: false
 Wir starten frühmorgens (also 09:00) von unserem herrlichen Nachtplatz. Leider meldet ein Crewmitglied seit Tagen schlimme Schmerzen aus dem Rachenraum.
 Der vor der Abreise konsultierte Zahnarzt hat jedoch nichts entdecken können. So ist man die Reise trotzdem angetreten und steckt nun eben zwischen Biel und Solothurn im Schlamassel.
 
-Nach etwas Katzenwäsche werden nun also 
-
+Nach etwas Katzenwäsche werden nun also zahnärztliche Notfalldienste abtelefoniert. Und natürlich gerne mit einer Praxis in Nähe Flusslauf. Tatsächlich werden wir fündig und fahren Solothurn an.
 
 ![](/img/20220712_ms_res_solo_0.jpg)
 
