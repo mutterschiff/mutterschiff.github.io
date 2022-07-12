@@ -95,8 +95,8 @@ Wir begegnen der Fähre Wynau, die aber aufgrund Wassermangel nicht fährt.
 
 ![](/img/20220712_ms_res_solo_24.jpg)
 
-Um auch junge Leute anzusprechen, haben wir uns entschieden, das Essen zu fotografieren. #nofilter #yolo
 
+Um auch junge Leute anzusprechen, haben wir uns entschieden, das Essen zu fotografieren. #nofilter #yolo
 ![](/img/20220712_ms_res_solo_25.jpg)
 
 Schliesslich nächtigen wir in einer wunderbaren Bucht bei Murgenthal.
