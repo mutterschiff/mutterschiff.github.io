@@ -5,10 +5,18 @@ date:   2022-07-11
 published: false
 ---
 
-## Mutterschiff fährt Roller-Coaster ##
+## Über Solothurn nach Wynau mit Rollercoaster und dem Verlust eines Weisheitszahnes ##
 
+> Erst nach etwas Katzenwäsche und Zwangshygiene
+> gewöhnen sich die Knochen langsam an Wochenanfangsmigräne.
 
-Solothurn Wynau, Murgenthal
+*Eins Zwo: Die Omi aus dem 1. Stock*
+
+Wir starten frühmorgens (also 09:00) von unserem herrlichen Nachtplatz. Leider meldet ein Crewmitglied seit Tagen schlimme Schmerzen aus dem Rachenraum.
+Der vor der Abreise konsultierte Zahnarzt hat jedoch nichts entdecken können. So ist man die Reise trotzdem angetreten und steckt nun eben zwischen Biel und Solothurn im Schlamassel.
+
+Nach etwas Katzenwäsche werden nun also 
+
 
 ![](/img/20220712_ms_res_solo_0.jpg)
 
@@ -54,17 +62,14 @@ Solothurn Wynau, Murgenthal
 
 ![](/img/20220712_ms_res_solo_21.jpg)
 
-![](/img/20220712_ms_res_solo_21.jpg)
-
-![](/img/20220712_ms_res_solo_21.jpg)
-
-![](/img/20220712_ms_res_solo_21.jpg)
-
-![](/img/20220712_ms_res_solo_21.jpg)
-
-![](/img/20220712_ms_res_solo_21.jpg)
-
+![](/img/20220712_ms_res_solo_22.jpg)
 
 ### Mutterschiff fährt Roller-Coaster ###
 
+![](/img/20220712_ms_res_solo_23.jpg)
 
+![](/img/20220712_ms_res_solo_24.jpg)
+
+![](/img/20220712_ms_res_solo_25.jpg)
+
+![](/img/20220712_ms_res_solo_26.jpg)
