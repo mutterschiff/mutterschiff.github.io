@@ -2,7 +2,7 @@
 layout: post
 title:  18. Weisheitszahn und Rollercoaster
 date:   2022-07-11
-published: false
+published: true
 ---
 
 ## Über Solothurn nach Wynau mit Rollercoaster und dem Verlust eines Weisheitszahnes ##
