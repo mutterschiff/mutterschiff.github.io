@@ -72,6 +72,8 @@ Durch schöne Flussläufe fahren wir bei Aarwangen vorbei.
 
 ### Mutterschiff fährt Roller-Coaster ###
 
+Nun fahren wir das Kraftwerk Wynau an, unser bisheriger Favorit.
+
 ![](/img/20220712_ms_res_solo_17.jpg)
 
 ![](/img/20220712_ms_res_solo_18.jpg)
@@ -88,6 +90,10 @@ Durch schöne Flussläufe fahren wir bei Aarwangen vorbei.
 
 ![](/img/20220712_ms_res_solo_24.jpg)
 
+Um auch junge Leute anzusprechen, haben wir uns entschieden, das Essen zu fotografieren. #nofilter #yolo
+
 ![](/img/20220712_ms_res_solo_25.jpg)
+
+Schliesslich nächtigen wir in einer wunderbaren Bucht bei Murgenthal.
 
 ![](/img/20220712_ms_res_solo_26.jpg)
