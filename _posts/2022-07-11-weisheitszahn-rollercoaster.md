@@ -39,6 +39,9 @@ Nach gründlicher Anamnese wird der Schuldige schnell gefunden: Der Weisheitszah
 Herr Grolimund zieht diesen Weisheitszahn geschmeidigst aus dem Kieferknochen des Crewmitglieds und dies auch noch in kürzester Zeit. Selten wurden 200.- Franken so gut investiert.
 Wer also einen dentalmedizinischen Notfall hat und mit dem Schiff unterwegs ist, this is the Goldstandard.
 
+Solothurn scheint sich auch langsam dem Katholizismus zu entwachsen:
+![](/img/20220712_ms_res_solo_27.jpg)
+
 Nun steuern wir die ehemalige Cellulosefabrik Attisholz an:
 
 ![](/img/20220712_ms_res_solo_6.jpg)
