@@ -38,21 +38,31 @@ Solothurn Wynau, Murgenthal
 
 ![](/img/20220712_ms_res_solo_13.jpg)
 
-![](/img/20220712_ms_res_solo_2.jpg)
+![](/img/20220712_ms_res_solo_14.jpg)
 
-![](/img/20220712_ms_res_solo_2.jpg)
+![](/img/20220712_ms_res_solo_15.jpg)
 
-![](/img/20220712_ms_res_solo_2.jpg)
+![](/img/20220712_ms_res_solo_16.jpg)
 
-![](/img/20220712_ms_res_solo_2.jpg)
+![](/img/20220712_ms_res_solo_17.jpg)
 
-![](/img/20220712_ms_res_solo_2.jpg)
+![](/img/20220712_ms_res_solo_18.jpg)
 
-![](/img/20220712_ms_res_solo_2.jpg)
+![](/img/20220712_ms_res_solo_19.jpg)
 
-![](/img/20220712_ms_res_solo_2.jpg)
+![](/img/20220712_ms_res_solo_20.jpg)
 
-![](/img/20220712_ms_res_solo_2.jpg)
+![](/img/20220712_ms_res_solo_21.jpg)
+
+![](/img/20220712_ms_res_solo_21.jpg)
+
+![](/img/20220712_ms_res_solo_21.jpg)
+
+![](/img/20220712_ms_res_solo_21.jpg)
+
+![](/img/20220712_ms_res_solo_21.jpg)
+
+![](/img/20220712_ms_res_solo_21.jpg)
 
 
 ### Mutterschiff fährt Roller-Coaster ###
