@@ -16,10 +16,43 @@ Solothurn Wynau, Murgenthal
 
 ![](/img/20220712_ms_res_solo_2.jpg)
 
+![](/img/20220712_ms_res_solo_3.jpg)
 
+![](/img/20220712_ms_res_solo_4.jpg)
 
+![](/img/20220712_ms_res_solo_5.jpg)
 
+![](/img/20220712_ms_res_solo_6.jpg)
 
+![](/img/20220712_ms_res_solo_7.jpg)
+
+![](/img/20220712_ms_res_solo_8.jpg)
+
+![](/img/20220712_ms_res_solo_9.jpg)
+
+![](/img/20220712_ms_res_solo_10.jpg)
+
+![](/img/20220712_ms_res_solo_11.jpg)
+
+![](/img/20220712_ms_res_solo_12.jpg)
+
+![](/img/20220712_ms_res_solo_13.jpg)
+
+![](/img/20220712_ms_res_solo_2.jpg)
+
+![](/img/20220712_ms_res_solo_2.jpg)
+
+![](/img/20220712_ms_res_solo_2.jpg)
+
+![](/img/20220712_ms_res_solo_2.jpg)
+
+![](/img/20220712_ms_res_solo_2.jpg)
+
+![](/img/20220712_ms_res_solo_2.jpg)
+
+![](/img/20220712_ms_res_solo_2.jpg)
+
+![](/img/20220712_ms_res_solo_2.jpg)
 
 
 ### Mutterschiff fährt Roller-Coaster ###
