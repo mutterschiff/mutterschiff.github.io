@@ -79,7 +79,7 @@ Und beidi füehre nach Wallisellen, beide füehre nach Wallisellen
 
 ![](/img/20220713_ms_res_olten_19.jpg)
 
-Aber bei einem solch wunderbaren Bähnchen drücken wir einpassieren, 
+Aber bei einem solch wunderbaren Bähnchen drücken wir ein Auge zu.
 ![](/img/20220713_ms_res_olten_20.jpg)
 
 ![](/img/20220713_ms_res_olten_21.jpg)
@@ -95,11 +95,17 @@ Brücke in Reparatur ist zu passieren:
 
 ![](/img/20220713_ms_res_olten_26.jpg)
 
+Und weiter geht's Richtung Kraftwerk Rüchlig, wo wir Tipps zur Weiterfahrt erhalten. Vielen Dank!
+
 ![](/img/20220713_ms_res_olten_27.jpg)
+
+Wir sind froh, als sich die Sonne dem Horizont nähert, denn es ist sehr heiss!
 
 ![](/img/20220713_ms_res_olten_28.jpg)
 
 ![](/img/20220713_ms_res_olten_29.jpg)
+
+In einer wunderbaren Auenlandschaft landet das Mutterschiff
 
 ![](/img/20220713_ms_res_olten_30.jpg)
 
