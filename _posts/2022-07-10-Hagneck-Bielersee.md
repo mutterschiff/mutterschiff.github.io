@@ -6,7 +6,7 @@ date:   2022-07-10
 
 ## Mutterschiff fährt Zug ##
 
-Nach dieser tiefentspannten Nacht geht's weiter Richtung Hagneck-Stauwehr, wo die Aare in den Bieleesee einläuft.
+Nach dieser tiefentspannten Nacht geht's weiter Richtung Hagneck-Stauwehr, wo die Aare in den Bielersee einläuft.
 
 ![](/img/20220711_ms_res_Hagneck_0.jpg)
 
