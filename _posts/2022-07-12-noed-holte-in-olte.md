@@ -2,7 +2,7 @@
 layout: post
 title:  19. Nöd holte in Olte, dürefahre, dürefahre...
 date:   2022-07-12
-published: false
+published: true
 ---
 
 ## Von Wynau über Olten nach Rupperswil-Auenstein ##
