@@ -12,6 +12,10 @@ Hüt wott niemer meh holte in Olte, alli fahre uf Walliselle, uf Walliselle, uf 
 
 *Stiller Has - Walliselle*
 
+## Mutterschiff fährt bei Olten nicht einfach durch ##
+
+Wir starten also von Murgenthal nach paar Liter Kaffee und Morgengymnastik los.
+Die überstandenen schwierigen Bedingungen nach der Fähre Wynau haben uns Selbstvertrauen gegeben für die Schlüsselstelle, die bald kommen wird: Brugg!
 
 ![](/img/20220713_ms_res_olten_0.jpg)
 
@@ -21,11 +25,15 @@ Hüt wott niemer meh holte in Olte, alli fahre uf Walliselle, uf Walliselle, uf 
 
 ![](/img/20220713_ms_res_olten_3.jpg)
 
+Wunderbare Auenlandschaften - und wieder: Bahnfahren!
+
 ![](/img/20220713_ms_res_olten_4.jpg)
 
 ![](/img/20220713_ms_res_olten_5.jpg)
 
 ![](/img/20220713_ms_res_olten_6.jpg)
+
+Passage bei Aarburg, immer schön links halten.
 
 ![](/img/20220713_ms_res_olten_7.jpg)
 
@@ -33,9 +41,14 @@ Hüt wott niemer meh holte in Olte, alli fahre uf Walliselle, uf Walliselle, uf 
 
 ![](/img/20220713_ms_res_olten_9.jpg)
 
-![](/img/20220713_ms_res_olten_10.jpg):
+![](/img/20220713_ms_res_olten_10.jpg)
+
+Und schon kommt Olten. Und wir halten glücklicherweise an.
+
+Denn im [Restaurant Orient](https://restaurantorient.ch) isst man gemäss Verfasser das beste orientalische Essen weit und breit!
 
 ![](/img/20220713_ms_res_olten_11.jpg)
+*Mutterschiff angelegt an der schönen Holzbrücke. Der Ring zum Festmachen ist handgeschmiedet und sicher 500 jährig.*
 
 ![](/img/20220713_ms_res_olten_12.jpg)
 
