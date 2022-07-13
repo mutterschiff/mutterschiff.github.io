@@ -51,16 +51,29 @@ Denn im [Restaurant Orient](https://restaurantorient.ch) isst man gemäss Verfas
 *Mutterschiff angelegt an der schönen Holzbrücke. Der Ring zum Festmachen ist handgeschmiedet und sicher 500 jährig.*
 
 ![](/img/20220713_ms_res_olten_12.jpg)
+*Scharfe Linkskurve beim Kraftwerk Winznau.*
 
 ![](/img/20220713_ms_res_olten_13.jpg).
 
 ![](/img/20220713_ms_res_olten_14.jpg)
+*Kernkraftwerk Gösgen - immer noch in Betrieb. Endlagerung ja dann vermutlich im Aargau oder auf dem Herrliberg?*
 
 ![](/img/20220713_ms_res_olten_15.jpg)
+*Wasserkraftwerk Gösgen*
 
 ![](/img/20220713_ms_res_olten_16.jpg)
 
 ![](/img/20220713_ms_res_olten_17.jpg)
+
+Und weiter geht's nach Aarau.
+
+> Auch nicht nach Aarau
+Ou ou ou, Aarau
+Aarau an der Aare – dürefahre!
+Aarau het zwei Autobahnzubringer, Aarau-Ost und Aarau-West
+Und beidi füehre nach Wallisellen, beide füehre nach Wallisellen
+
+*Stiller Has - Walliselle*
 
 ![](/img/20220713_ms_res_olten_18.jpg)
 
