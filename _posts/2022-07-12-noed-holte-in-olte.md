@@ -7,98 +7,77 @@ published: false
 
 ## Von Wynau über Olten nach Rupperswil-Auenstein ##
 
-> Erst nach etwas Katzenwäsche und Zwangshygiene
-> gewöhnen sich die Knochen langsam an Wochenanfangsmigräne.
+> Oder in Olte Uuh... Olte Früecher hets öppis golte, Olte Hüt wott niemer meh holte in Olte, alli fahre uf Walliselle Uf Walliselle, uf Walliselle Uf Walliselle
 
-*Eins Zwo: Die Omi aus dem 1. Stock*
-
-Wir starten frühmorgens (also 09:00) von unserem herrlichen Nachtplatz. Leider meldet ein Crewmitglied seit Tagen schlimme Schmerzen aus dem Rachenraum.
-Der vor der Abreise konsultierte Zahnarzt hat jedoch nichts entdecken können. So ist man die Reise trotzdem angetreten und steckt nun eben zwischen Biel und Solothurn im Schlamassel.
-
-Nach etwas Katzenwäsche werden nun also zahnärztliche Notfalldienste abtelefoniert. Und natürlich gerne mit einer Praxis in Nähe Flusslauf. Tatsächlich werden wir fündig und fahren Solothurn an.
-
-![](/img/20220712_ms_res_solo_0.jpg)
-
-![](/img/20220712_ms_res_solo_1.jpg)
-
-![](/img/20220712_ms_res_solo_2.jpg)
-
-![](/img/20220712_ms_res_solo_3.jpg)
-
-![](/img/20220712_ms_res_solo_4.jpg)
-
-Mutterschiff wird schön bei den Besuchsparkplätzen (Landisteg) festgemacht.
-
-![](/img/20220712_ms_res_solo_5.jpg)
-
-Nun wird der Zahnarzt aufgesucht. Zahnarzt Grolimund findet sich nur einige hundert Meter weiter in der Stadt:
-
-![](/img/solothurn-map.jpg)
-
-Nach gründlicher Anamnese wird der Schuldige schnell gefunden: Der Weisheitszahn muss weg. Glücklicherweise handelt es sich um einen Weisheitszahn mit einer Pfahlwurzel.
-Herr Grolimund zieht diesen Weisheitszahn geschmeidigst aus dem Kieferknochen des Crewmitglieds und dies auch noch in kürzester Zeit. Selten wurden 200.- Franken so gut investiert.
-Wer also einen dentalmedizinischen Notfall hat und mit dem Schiff unterwegs ist, this is the Goldstandard.
-
-Auf dem Rückweg findet sich eine Taubenfütterungsverbots-Tafel, die jemand ergänzt hat. Solothurn scheint sich auch langsam dem Katholizismus zu entwachsen:
-![](/img/20220712_ms_res_solo_27.jpg)
-
-Nun steuern wir die ehemalige Cellulosefabrik Attisholz an:
-
-![](/img/20220712_ms_res_solo_6.jpg)
-
-![](/img/20220712_ms_res_solo_7.jpg)
-
-![](/img/20220712_ms_res_solo_8.jpg)
-
-Wo wir kurz verweilen, um bald das nächste Kraftwerk zu passieren:
-
-![](/img/20220712_ms_res_solo_9.jpg)
-
-![](/img/20220712_ms_res_solo_10.jpg)
-
-Und gleich darauf nochmal:
-
-![](/img/20220712_ms_res_solo_11.jpg)
-
-![](/img/20220712_ms_res_solo_12.jpg)
-
-![](/img/20220712_ms_res_solo_13.jpg)
-
-Durch schöne Flussläufe fahren wir bei Aarwangen vorbei.
-
-![](/img/20220712_ms_res_solo_14.jpg)
-
-![](/img/20220712_ms_res_solo_15.jpg)
-*Schloss Aarwangen*
-
-![](/img/20220712_ms_res_solo_16.jpg)
-
-### Mutterschiff fährt Roller-Coaster ###
-
-Nun fahren wir das Kraftwerk Wynau an, unser bisheriger Favorit.
-
-![](/img/20220712_ms_res_solo_17.jpg)
-
-![](/img/20220712_ms_res_solo_18.jpg)
-
-![](/img/20220712_ms_res_solo_19.jpg)
-
-![](/img/20220712_ms_res_solo_20.jpg)
-
-![](/img/20220712_ms_res_solo_21.jpg)
-
-Wir begegnen der Fähre Wynau, die aber aufgrund Wassermangel nicht fährt.
-
-![](/img/20220712_ms_res_solo_22.jpg)
-
-![](/img/20220712_ms_res_solo_23.jpg)
-
-![](/img/20220712_ms_res_solo_24.jpg)
+*Stiller Has - Walliselle*
 
 
-Um auch junge Leute anzusprechen, haben wir uns entschieden, das Essen zu fotografieren. #nofilter #yolo
-![](/img/20220712_ms_res_solo_25.jpg)
+![](/img/20220713_ms_res_olten_0.jpg)
 
-Schliesslich nächtigen wir in einer wunderbaren Bucht bei Murgenthal.
+![](/img/20220713_ms_res_olten_1.jpg)
 
-![](/img/20220712_ms_res_solo_26.jpg)
+![](/img/20220713_ms_res_olten_2.jpg)
+
+![](/img/20220713_ms_res_olten_3.jpg)
+
+![](/img/20220713_ms_res_olten_4.jpg)
+
+![](/img/20220713_ms_res_olten_5.jpg)
+
+![](/img/20220713_ms_res_olten_6.jpg)
+
+![](/img/20220713_ms_res_olten_7.jpg)
+
+![](/img/20220713_ms_res_olten_8.jpg)
+
+![](/img/20220713_ms_res_olten_9.jpg)
+
+![](/img/20220713_ms_res_olten_10.jpg):
+
+![](/img/20220713_ms_res_olten_11.jpg)
+
+![](/img/20220713_ms_res_olten_12.jpg)
+
+![](/img/20220713_ms_res_olten_13.jpg).
+
+![](/img/20220713_ms_res_olten_14.jpg)
+
+![](/img/20220713_ms_res_olten_15.jpg)
+
+![](/img/20220713_ms_res_olten_16.jpg)
+
+![](/img/20220713_ms_res_olten_17.jpg)
+
+![](/img/20220713_ms_res_olten_18.jpg)
+
+![](/img/20220713_ms_res_olten_19.jpg)
+
+![](/img/20220713_ms_res_olten_20.jpg)
+
+![](/img/20220713_ms_res_olten_21.jpg)
+
+![](/img/20220713_ms_res_olten_22.jpg)
+
+![](/img/20220713_ms_res_olten_23.jpg)
+
+![](/img/20220713_ms_res_olten_24.jpg)
+
+![](/img/20220713_ms_res_olten_25.jpg).
+
+![](/img/20220713_ms_res_olten_26.jpg)
+
+![](/img/20220713_ms_res_olten_27.jpg)
+
+![](/img/20220713_ms_res_olten_28.jpg)
+
+![](/img/20220713_ms_res_olten_29.jpg)
+
+![](/img/20220713_ms_res_olten_30.jpg)
+
+![](/img/20220713_ms_res_olten_31.jpg)
+
+![](/img/20220713_ms_res_olten_32.jpg)
+
+![](/img/20220713_ms_res_olten_33.jpg)
+
+![](/img/20220713_ms_res_olten_34.jpg)
