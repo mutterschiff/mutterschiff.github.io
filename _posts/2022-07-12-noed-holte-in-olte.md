@@ -47,6 +47,9 @@ Und schon kommt Olten. Und wir halten glücklicherweise an.
 
 Denn im [Restaurant Orient](https://restaurantorient.ch) isst man gemäss Verfasser das beste orientalische Essen weit und breit!
 
+Unser heutiges Problem ist kein Weisheitszahn, sondern der abgebrochene Hauptschalter der 12-V-Batterie.
+Schwierig aufzutreiben, sogar aussichtslos, aber es findet sich ein Autohändler, der dieses Teil führt. Und tatsächlich hat dieser eine Garage nah an der Aare. Nach Olten wird also rechts rangefahren und der Schiffsmechaniker steigt aus. In 20min ist das Teil ersetzt und sogar die Löcher passen immer noch.
+
 ![](/img/20220713_ms_res_olten_11.jpg)
 *Mutterschiff angelegt an der schönen Holzbrücke. Der Ring zum Festmachen ist handgeschmiedet und sicher 500-jährig.*
 
