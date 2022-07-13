@@ -48,7 +48,7 @@ Und schon kommt Olten. Und wir halten glücklicherweise an.
 Denn im [Restaurant Orient](https://restaurantorient.ch) isst man gemäss Verfasser das beste orientalische Essen weit und breit!
 
 ![](/img/20220713_ms_res_olten_11.jpg)
-*Mutterschiff angelegt an der schönen Holzbrücke. Der Ring zum Festmachen ist handgeschmiedet und sicher 500 jährig.*
+*Mutterschiff angelegt an der schönen Holzbrücke. Der Ring zum Festmachen ist handgeschmiedet und sicher 500-jährig.*
 
 ![](/img/20220713_ms_res_olten_12.jpg)
 *Scharfe Linkskurve beim Kraftwerk Winznau.*
@@ -99,11 +99,11 @@ Und weiter geht's Richtung Kraftwerk Rüchlig, wo wir Tipps zur Weiterfahrt erha
 
 ![](/img/20220713_ms_res_olten_27.jpg)
 
-Wir sind froh, als sich die Sonne dem Horizont nähert, denn es ist sehr heiss!
-
 ![](/img/20220713_ms_res_olten_28.jpg)
 
 ![](/img/20220713_ms_res_olten_29.jpg)
+
+Wir sind froh, als sich die Sonne dem Horizont nähert, denn es ist sehr heiss!
 
 In einer wunderbaren Auenlandschaft landet das Mutterschiff
 
