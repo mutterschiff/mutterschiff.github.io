@@ -7,7 +7,8 @@ published: false
 
 ## Von Wynau über Olten nach Rupperswil-Auenstein ##
 
-> Oder in Olte Uuh... Olte Früecher hets öppis golte, Olte Hüt wott niemer meh holte in Olte, alli fahre uf Walliselle Uf Walliselle, uf Walliselle Uf Walliselle
+> Oder in Olte, uuhh... Olte - früecher hets öppis golte, Olte. 
+Hüt wott niemer meh holte in Olte, alli fahre uf Walliselle, uf Walliselle, uf Walliselle uf Walliselle
 
 *Stiller Has - Walliselle*
 
