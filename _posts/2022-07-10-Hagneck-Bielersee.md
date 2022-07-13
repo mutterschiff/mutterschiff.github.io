@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  17. Von Hagneck über den Bieleesee
+title:  17. Von Hagneck über den Bielersee
 date:   2022-07-10
 ---
 
