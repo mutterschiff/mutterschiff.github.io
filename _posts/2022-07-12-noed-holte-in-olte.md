@@ -53,7 +53,7 @@ Denn im [Restaurant Orient](https://restaurantorient.ch) isst man gemäss Verfas
 ![](/img/20220713_ms_res_olten_12.jpg)
 *Scharfe Linkskurve beim Kraftwerk Winznau.*
 
-![](/img/20220713_ms_res_olten_13.jpg).
+![](/img/20220713_ms_res_olten_13.jpg)
 
 ![](/img/20220713_ms_res_olten_14.jpg)
 *Kernkraftwerk Gösgen - immer noch in Betrieb. Endlagerung ja dann vermutlich im Aargau oder auf dem Herrliberg?*
@@ -79,6 +79,7 @@ Und beidi füehre nach Wallisellen, beide füehre nach Wallisellen
 
 ![](/img/20220713_ms_res_olten_19.jpg)
 
+Aber bei einem solch wunderbaren Bähnchen drücken wir einpassieren, 
 ![](/img/20220713_ms_res_olten_20.jpg)
 
 ![](/img/20220713_ms_res_olten_21.jpg)
@@ -89,7 +90,8 @@ Und beidi füehre nach Wallisellen, beide füehre nach Wallisellen
 
 ![](/img/20220713_ms_res_olten_24.jpg)
 
-![](/img/20220713_ms_res_olten_25.jpg).
+Brücke in Reparatur ist zu passieren:
+![](/img/20220713_ms_res_olten_25.jpg)
 
 ![](/img/20220713_ms_res_olten_26.jpg)
 
