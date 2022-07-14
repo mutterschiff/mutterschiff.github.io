@@ -170,7 +170,7 @@ In der Tat fliesst ein Flüsschen, kaum breiter als die Limmat, von rechts rein.
 
 Leider bringt der Rhein auch jede Menge Schaum mit, keine Ahnung, was flussaufwärts passiert ist.
 
-Wir sind nun plötzlich in Deutschland. Hier eine 7-köpfige Schwanenfamilie, die von einem ausgebauten Kita-System profitiert.
+Wir sind nun plötzlich in Deutschland. Hier eine siebenköpfige Schwanenfamilie, die von einem ausgebauten Kita-System profitiert.
 
 ![](/img/20220714_ms_res_waldshut_64.jpg)
 
@@ -178,23 +178,25 @@ Im Angebot gibt's den *Schweizer Jodel-Becher*:
 
 ![](/img/20220714_ms_res_waldshut_65.jpg)
 
-Gestärkt fahren wir weiter nach Leibstadt, wo wir übersetzen und bald schon auf einer kleinen Insel anlegen und übernachten. Nächstentags werden wir dann vom Fischerclub Waldshut geweckt werden.
-
+Gestärkt fahren wir weiter nach Leibstadt, wo wir erneut über setzen:
 ![](/img/20220714_ms_res_waldshut_66.jpg)
 
 ![](/img/20220714_ms_res_waldshut_67.jpg)
 
 ![](/img/20220714_ms_res_waldshut_68.jpg)
+*AKW-Romantik*
 
 ![](/img/20220714_ms_res_waldshut_69.jpg)
 
 ![](/img/20220714_ms_res_waldshut_70.jpg)
 
+Bald legen wir auf einer kleinen Insel an und übernachten. Nächstentags werden wir dann vom Fischerclub Waldshut geweckt werden.
+
 ![](/img/20220714_ms_res_waldshut_71.jpg)
 
 ![](/img/20220714_ms_res_waldshut_72.jpg)
 
-Rote Linsensuppe mit Brennnessel. Vegan, glutenfrei, low carb für unseren Tiktok-Channel.
+Rote Linsensuppe mit Brennnessel. Vegan, glutenfrei, low carb. Für unseren Tiktok-Channel.
 
 ![](/img/20220714_ms_res_waldshut_73.jpg)
 *Vollmond*
