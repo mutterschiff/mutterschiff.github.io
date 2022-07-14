@@ -39,7 +39,7 @@ Hier wurde Beispielsweise gleich auch noch eine Fischtreppe integriert:
 
 ![](/img/20220714_ms_res_waldshut_8.jpg)
 
-Weiter geht's Richtung Brigg:
+Weiter geht's Richtung Brugg:
 
 ![](/img/20220714_ms_res_waldshut_11.jpg)
 
@@ -59,8 +59,6 @@ Vgl. [Rekognoszieren]({{ site.baseurl }}{% post_url _posts/2021-06-28-rekognoszi
 ![](/img/20220714_ms_res_waldshut_15.jpg)
 
 ![](/img/20220714_ms_res_waldshut_16.jpg)
-
-![](/img/20220714_ms_res_waldshut_17.jpg)
 
 ![](/img/20220714_ms_res_waldshut_18.jpg)
 
@@ -103,9 +101,9 @@ Und dann kommt auch schon die Limmat von rechts daher:
 
 ![](/img/20220714_ms_res_waldshut_31.jpg)
 
-![](/img/20220714_ms_res_waldshut_32.jpg)
-
 ![](/img/20220714_ms_res_waldshut_33.jpg)
+
+![](/img/20220714_ms_res_waldshut_32.jpg)
 
 ![](/img/20220714_ms_res_waldshut_34.jpg)
 
