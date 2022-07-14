@@ -69,10 +69,10 @@ Fotos davon gibt's keine, weil niemand fotografieren konnte, aber dafür viel Ad
 *Vorher*
 
 ![](/img/20220714_ms_res_waldshut_20.jpg)
-*Vor Passage der Brücke, die engste Stelle!*
+*Und schon durchs  wildeste durch :)*
 
 ![](/img/20220714_ms_res_waldshut_21.jpg)
-*Und schon durch :)*
+*Nur noch die Brücke, die engste Stelle, zu passieren.*
 
 ![](/img/20220714_ms_res_waldshut_22.jpg)
 *Durch  diese hohle Gasse muss das Mutterschiff kommen.*
