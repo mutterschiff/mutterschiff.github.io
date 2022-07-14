@@ -35,9 +35,15 @@ Und gleich nochmal (Kraftwerk Wildegg-Brugg):
 ![](/img/20220714_ms_res_waldshut_7.jpg)
 
 Jedes Kraftwerk scheint über eine eigene Spurweite, eigene Wägelchen etc. zu verfügen.
-Hier wurde Beispielsweise gleich auch noch eine Fischtreppe integriert.
+Hier wurde Beispielsweise gleich auch noch eine Fischtreppe integriert:
 
 ![](/img/20220714_ms_res_waldshut_8.jpg)
+
+Weiter geht's Richtung Brigg:
+
+![](/img/20220714_ms_res_waldshut_11.jpg)
+
+Beinahe wären wir hier unvorsichtig durchgefahren, aber wir halten glücklicherweise an und schauen uns diese Stelle sehr genau an.
 
 ![](/img/20220714_ms_res_waldshut_9.jpg)
 
@@ -47,8 +53,6 @@ Hier wurde Beispielsweise gleich auch noch eine Fischtreppe integriert.
 > Der Ausbau des Kanals sollte aber nur noch bis Brugg für 1200 t Schleppverbände geschaffen werden, weiter westlich sollten selbstfahrende 900 t-Gütermotorschiffe genügen.
 
 *https://de.m.wikipedia.org/wiki/Transhelvetischer_Kanal*
-
-![](/img/20220714_ms_res_waldshut_11.jpg)
 
 ![](/img/20220714_ms_res_waldshut_12.jpg)
 
