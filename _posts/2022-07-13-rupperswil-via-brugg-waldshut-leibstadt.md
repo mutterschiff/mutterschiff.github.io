@@ -72,11 +72,9 @@ Fotos davon gibt's keine, weil niemand fotografieren konnte, aber dafür viel Ad
 *Vor Passage der Brücke, die engste Stelle!*
 
 ![](/img/20220714_ms_res_waldshut_21.jpg)
-
 *Und schon durch :)*
 
 ![](/img/20220714_ms_res_waldshut_22.jpg)
-
 *Durch  diese hohle Gasse muss das Mutterschiff kommen.*
 
 ![](/img/20220714_ms_res_waldshut_24.jpg)
@@ -116,6 +114,8 @@ Die Limmat zeigt überhaupt keine sichtbaren Spuren des ganzen Kokains aus Züri
 ![](/img/20220714_ms_res_waldshut_36.jpg)
 
 ![](/img/20220714_ms_res_waldshut_37.jpg)
+
+Wir steuern Kraftwerk Beznau an und schleusen. Das ist bei dieser Hitze ziemlich erholsam.
 
 ![](/img/20220714_ms_res_waldshut_38.jpg)
 
