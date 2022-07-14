@@ -154,7 +154,11 @@ Wir fahren durch den Klingnauer Stausee und fahren erneut auf Gleisen.
 
 ![](/img/20220714_ms_res_waldshut_54.jpg)
 
+Nach dieser Brücke fliesst der Rhein von rechts in die Aare.
+
 ![](/img/20220714_ms_res_waldshut_55.jpg)
+
+In der Tat fliesst ein Flüsschen, kaum breiter als die Limmat, von rechts rein.
 
 ![](/img/20220714_ms_res_waldshut_56.jpg)
 
