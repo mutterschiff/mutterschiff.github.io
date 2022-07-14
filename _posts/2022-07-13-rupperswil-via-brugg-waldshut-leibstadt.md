@@ -77,6 +77,8 @@ Fotos davon gibt's keine, weil niemand fotografieren konnte, aber dafür viel Ad
 
 ![](/img/20220714_ms_res_waldshut_22.jpg)
 
+*Durch  diese hohle Gasse muss das Mutterschiff kommen.*
+
 ![](/img/20220714_ms_res_waldshut_24.jpg)
 
 ![](/img/20220714_ms_res_waldshut_23.jpg)
