@@ -2,18 +2,17 @@
 layout: post
 title:  20. Schlüsselstelle durchfahren und plötzlich Jodelbecher
 date:   2022-07-13
-published: false
 ---
 
 ## Von Rupperswil-Auenstein bis an die Deutsche Grenze ##
 
-> Du sagst, ich bin jetzt da wo vorher schon viele waren
-Ich bin da wo vorher schon viele andere waren
+> Du sagst, ich bin jetzt da wo vorher schon viele waren.
+Ich bin da wo vorher schon viele andere waren.
 Der Unterschied ist: mich holt das Mutterschiff ab.
 
 *Retrogott - Hardcore*
 
-Wir starten frühmorgens, wie es sich für seriöse Seeleut empfiehlt. Zum Glück sind wir schon älter und brauchen nicht mehr viel Schlaf.
+Wir starten frühmorgens, wie es sich für seriöse Seeleute anschickt. Zum Glück sind wir schon älter und brauchen nicht mehr viel Schlaf.
 Viele pendeln mit Zug und Tram, wir nur mit Velo oder Bootslift:
 
 ![](/img/20220714_ms_res_waldshut_0.jpg)
@@ -101,8 +100,6 @@ Und dann kommt auch schon die Limmat von rechts daher:
 
 ![](/img/20220714_ms_res_waldshut_31.jpg)
 
-![](/img/20220714_ms_res_waldshut_33.jpg)
-
 ![](/img/20220714_ms_res_waldshut_32.jpg)
 
 Die Limmat zeigt überhaupt keine sichtbaren Spuren des ganzen Kokains aus Züri. Nicht die geringste Verschmutzung sichtbar.
@@ -178,7 +175,7 @@ Im Angebot gibt's den *Schweizer Jodel-Becher*, da fühlt man sich schon fast al
 
 ![](/img/20220714_ms_res_waldshut_65.jpg)
 
-Gestärkt fahren wir weiter nach Leibstadt, wo wir erneut über setzen:
+Gestärkt fahren wir weiter nach Leibstadt, wo wir erneut übersetzen:
 ![](/img/20220714_ms_res_waldshut_66.jpg)
 
 ![](/img/20220714_ms_res_waldshut_67.jpg)
