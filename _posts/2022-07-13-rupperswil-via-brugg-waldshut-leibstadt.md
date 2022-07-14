@@ -54,9 +54,6 @@ Vgl. [Rekognoszieren]({{ site.baseurl }}{% post_url _posts/2021-06-28-rekognoszi
 
 ![](/img/20220714_ms_res_waldshut_13.jpg)
 
-Wir machen Klar Schiff, legen Schwimmwesten an und fahren durch das Wildwasser.
-Fotos davon gibt's keine, weil niemand fotografieren konnte, aber dafür viel Adrenalin.
-
 ![](/img/20220714_ms_res_waldshut_14.jpg)
 
 ![](/img/20220714_ms_res_waldshut_15.jpg)
@@ -67,17 +64,26 @@ Fotos davon gibt's keine, weil niemand fotografieren konnte, aber dafür viel Ad
 
 ![](/img/20220714_ms_res_waldshut_18.jpg)
 
+Wir machen Klar Schiff, legen Schwimmwesten an und fahren durch das Wildwasser.
+Fotos davon gibt's keine, weil niemand fotografieren konnte, aber dafür viel Adrenalin.
+
 ![](/img/20220714_ms_res_waldshut_19.jpg)
+*Vorher*
 
 ![](/img/20220714_ms_res_waldshut_20.jpg)
+*Vor Passage der Brücke, die engste Stelle!*
 
 ![](/img/20220714_ms_res_waldshut_21.jpg)
 
+*Und schon durch :)*
+
 ![](/img/20220714_ms_res_waldshut_22.jpg)
+
+![](/img/20220714_ms_res_waldshut_24.jpg)
 
 ![](/img/20220714_ms_res_waldshut_23.jpg)
 
-![](/img/20220714_ms_res_waldshut_24.jpg)
+Erstmal baden und Kaffee! Und weiter geht's:
 
 ![](/img/20220714_ms_res_waldshut_25.jpg).
 
