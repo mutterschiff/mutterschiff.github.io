@@ -1,26 +1,17 @@
 ---
 layout: post
-title:  20. Schlüsselstelle durchfahren, 
-date:   2022-07-12
+title:  20. Schlüsselstelle durchfahren und plötzlich Jodelbecher
+date:   2022-07-13
 published: false
 ---
 
-## Von  Rupperswil-Auenstein bis an die Deutsche Grenze ##
-
+## Von Rupperswil-Auenstein bis an die Deutsche Grenze ##
 
 > Du sagst, ich bin jetzt da wo vorher schon viele waren
 Ich bin da wo vorher schon viele andere waren
 Der Unterschied ist: mich holt das Mutterschiff ab.
 
 *Retrogott - Hardcore*
-
-
-
-
-> Der Ausbau des Kanals sollte aber nur noch bis Brugg für 1200 t Schleppverbände geschaffen werden, weiter westlich sollten selbstfahrende 900 t-Gütermotorschiffe genügen.
-
-*https://de.m.wikipedia.org/wiki/Transhelvetischer_Kanal*
-
 
 ![](/img/20220714_ms_res_waldshut_0.jpg)
 
@@ -42,7 +33,12 @@ Der Unterschied ist: mich holt das Mutterschiff ab.
 
 ![](/img/20220714_ms_res_waldshut_9.jpg)
 
-![](/img/20220714_ms_res_waldshut_10.jpg):
+![](/img/20220714_ms_res_waldshut_10.jpg)
+
+
+> Der Ausbau des Kanals sollte aber nur noch bis Brugg für 1200 t Schleppverbände geschaffen werden, weiter westlich sollten selbstfahrende 900 t-Gütermotorschiffe genügen.
+
+*https://de.m.wikipedia.org/wiki/Transhelvetischer_Kanal*
 
 ![](/img/20220714_ms_res_waldshut_11.jpg)
 
