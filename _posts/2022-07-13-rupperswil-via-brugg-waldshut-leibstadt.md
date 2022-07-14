@@ -83,13 +83,17 @@ Fotos davon gibt's keine, weil niemand fotografieren konnte, aber dafür viel Ad
 
 ![](/img/20220714_ms_res_waldshut_23.jpg)
 
-Erstmal baden und Kaffee! Und weiter geht's:
+Erstmal baden und Kaffee! Und weiter geht's Richtung Wasserschloss:
 
-![](/img/20220714_ms_res_waldshut_25.jpg).
+![](/img/20220714_ms_res_waldshut_25.jpg)
+
+Von rechts fliesst hier die Reuss in die Aare:
 
 ![](/img/20220714_ms_res_waldshut_26.jpg)
 
 ![](/img/20220714_ms_res_waldshut_27.jpg)
+
+Und dann kommt auch schon die Limmat von rechts daher:
 
 ![](/img/20220714_ms_res_waldshut_28.jpg)
 
@@ -104,8 +108,6 @@ Erstmal baden und Kaffee! Und weiter geht's:
 ![](/img/20220714_ms_res_waldshut_33.jpg)
 
 ![](/img/20220714_ms_res_waldshut_34.jpg)
-
-
 
 ![](/img/20220714_ms_res_waldshut_35.jpg)
 
