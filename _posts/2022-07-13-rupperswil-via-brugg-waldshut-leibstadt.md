@@ -44,7 +44,16 @@ Weiter geht's Richtung Brigg:
 ![](/img/20220714_ms_res_waldshut_11.jpg)
 
 Beinahe wären wir hier unvorsichtig durchgefahren, aber wir halten glücklicherweise an und schauen uns diese Stelle sehr genau an.
-Vgl. {% link _posts/2021-06-28-rekognoszieren.md %}
+Vgl. [Rekognoszieren]({% link _posts/2021-06-28-rekognoszieren.md %})
+
+[Rekognoszieren]({% post_url _posts/2021-06-28-rekognoszieren %})
+
+
+[Name of Link]({% post_url 2010-07-21-name-of-post %})
+
+{% post_url 2010-07-21-name-of-post %}
+
+![Link to a file]({% link /assets/files/doc.pdf %})
 
 ![](/img/20220714_ms_res_waldshut_9.jpg)
 
