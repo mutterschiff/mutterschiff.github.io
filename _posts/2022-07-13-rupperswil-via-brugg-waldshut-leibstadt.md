@@ -13,6 +13,9 @@ Der Unterschied ist: mich holt das Mutterschiff ab.
 
 *Retrogott - Hardcore*
 
+Wir starten frühmorgens, wie es sich für seriöse Seeleut empfiehlt. Zum Glück sind wir schon älter und brauchen nicht mehr viel Schlaf.
+Viele pendeln mit Zug und Tram, wir nur mit Velo oder Bootslift:
+
 ![](/img/20220714_ms_res_waldshut_0.jpg)
 
 ![](/img/20220714_ms_res_waldshut_1.jpg)
@@ -25,9 +28,14 @@ Der Unterschied ist: mich holt das Mutterschiff ab.
 
 ![](/img/20220714_ms_res_waldshut_5.jpg)
 
+Und gleich nochmal (Kraftwerk Wildegg-Brugg):
+
 ![](/img/20220714_ms_res_waldshut_6.jpg)
 
 ![](/img/20220714_ms_res_waldshut_7.jpg)
+
+Jedes Kraftwerk scheint über eine eigene Spurweite, eigene Wägelchen etc. zu verfügen.
+Hier wurde Beispielsweise gleich auch noch eine Fischtreppe integriert.
 
 ![](/img/20220714_ms_res_waldshut_8.jpg)
 
