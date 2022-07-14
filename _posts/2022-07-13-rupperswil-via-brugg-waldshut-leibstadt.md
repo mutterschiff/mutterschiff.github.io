@@ -133,6 +133,8 @@ Wir steuern Kraftwerk Beznau an und schleusen. Das ist bei dieser Hitze ziemlich
 
 ![](/img/20220714_ms_res_waldshut_44.jpg)
 
+Wir fahren durch den Klingnauer Stausee und fahren erneut auf Gleisen.
+
 ![](/img/20220714_ms_res_waldshut_46.jpg)
 
 ![](/img/20220714_ms_res_waldshut_47.jpg)
@@ -142,6 +144,7 @@ Wir steuern Kraftwerk Beznau an und schleusen. Das ist bei dieser Hitze ziemlich
 ![](/img/20220714_ms_res_waldshut_49.jpg)
 
 ![](/img/20220714_ms_res_waldshut_50.jpg)
+*Hier nimmt man es mit der Sicherheit sehr genau!*
 
 ![](/img/20220714_ms_res_waldshut_51.jpg)
 
