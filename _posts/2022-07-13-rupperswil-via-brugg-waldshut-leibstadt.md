@@ -50,14 +50,12 @@ Vgl. [Rekognoszieren]({{ site.baseurl }}{% post_url _posts/2021-06-28-rekognoszi
 
 ![](/img/20220714_ms_res_waldshut_10.jpg)
 
-
-> Der Ausbau des Kanals sollte aber nur noch bis Brugg für 1200 t Schleppverbände geschaffen werden, weiter westlich sollten selbstfahrende 900 t-Gütermotorschiffe genügen.
-
-*https://de.m.wikipedia.org/wiki/Transhelvetischer_Kanal*
-
 ![](/img/20220714_ms_res_waldshut_12.jpg)
 
-![](/img/20220714_ms_res_waldshut_13.jpg).
+![](/img/20220714_ms_res_waldshut_13.jpg)
+
+Wir machen Klar Schiff, legen Schwimmwesten an und fahren durch das Wildwasser.
+Fotos davon gibt's keine, weil niemand fotografieren konnte, aber dafür viel Adrenalin.
 
 ![](/img/20220714_ms_res_waldshut_14.jpg)
 
