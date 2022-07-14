@@ -166,19 +166,17 @@ In der Tat fliesst ein Flüsschen, kaum breiter als die Limmat, von rechts rein.
 
 ![](/img/20220714_ms_res_waldshut_58.jpg)
 
-![](/img/20220714_ms_res_waldshut_59jpg)
+![](/img/20220714_ms_res_waldshut_59.jpg)
 
-![](/img/20220714_ms_res_waldshut_60.jpg)
-
-![](/img/20220714_ms_res_waldshut_61.jpg)
-
-![](/img/20220714_ms_res_waldshut_62.jpg)
-
-![](/img/20220714_ms_res_waldshut_63.jpg)
+Leider bringt der Rhein auch jede Menge Schaum mit, keine Ahnung, was flussaufwärts passiert ist.
 
 ![](/img/20220714_ms_res_waldshut_64.jpg)
 
+Wir sind nun plötzlich in Deutschland. Hier eine 7-köpfige Schwanenfamilie, die von einem ausgebauten Kita-System profitieren.
+
 ![](/img/20220714_ms_res_waldshut_65.jpg)
+
+Im Angebot gibt's den *Schweizer Jodel-Becher*:
 
 ![](/img/20220714_ms_res_waldshut_66.jpg)
 
