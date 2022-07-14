@@ -174,7 +174,7 @@ Wir sind nun plötzlich in Deutschland. Hier eine siebenköpfige Schwanenfamilie
 
 ![](/img/20220714_ms_res_waldshut_64.jpg)
 
-Im Angebot gibt's den *Schweizer Jodel-Becher*:
+Im Angebot gibt's den *Schweizer Jodel-Becher*, da fühlt man sich schon fast als *edler Wilder*.
 
 ![](/img/20220714_ms_res_waldshut_65.jpg)
 
