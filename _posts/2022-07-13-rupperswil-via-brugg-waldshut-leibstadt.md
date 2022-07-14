@@ -107,6 +107,8 @@ Und dann kommt auch schon die Limmat von rechts daher:
 
 ![](/img/20220714_ms_res_waldshut_32.jpg)
 
+Die Limmat zeigt überhaupt keine sichtbaren Spuren des ganzen Kokains aus Züri. Nicht die geringste Verschmutzung sichtbar.
+
 ![](/img/20220714_ms_res_waldshut_34.jpg)
 
 ![](/img/20220714_ms_res_waldshut_35.jpg)
