@@ -44,13 +44,22 @@ Danach passieren wir die längste Holzbrücke Europas, die Holzbrücke Bad Säck
 
 ![](/img/20220715_ms_res_birsfelden_9.jpg)
 
-![](/img/20220715_ms_res_birsfelden_10.jpg):
+Danach benützt das Mutterschiff einen überdimensionierten Kran.
+
+![](/img/20220715_ms_res_birsfelden_10.jpg)
 
 ![](/img/20220715_ms_res_birsfelden_11.jpg)
 
+> Die Leute sind wie immer: meistens freundlich.
+
+Schiffsmechaniker des Mutterschiffs
+
+
+![](/img/20220715_ms_res_birsfelden_13.jpg)
+
 ![](/img/20220715_ms_res_birsfelden_12.jpg)
 
-![](/img/20220715_ms_res_birsfelden_13.jpg).
+*Rheinfelden. Wirklich gelungenes Städtchen.*
 
 ![](/img/20220715_ms_res_birsfelden_14.jpg)
 
