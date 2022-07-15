@@ -2,7 +2,7 @@
 layout: post
 title:  21. Von nach Birsfelden (vor Basel)
 date:   2022-07-14
-published: false
+published: true
 ---
 
 ##  Von Leibstadt nach Birsfelden (vor Basel) ##
