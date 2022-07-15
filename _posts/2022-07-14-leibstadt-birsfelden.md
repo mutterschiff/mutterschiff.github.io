@@ -55,15 +55,17 @@ Danach benützt das Mutterschiff einen überdimensionierten Kran.
 Schiffsmechaniker des Mutterschiffs
 
 
+![](/img/20220715_ms_res_birsfelden_14.jpg)
+
+*Rheinfelden. Wirklich gelungenes Städtchen.*
+
 ![](/img/20220715_ms_res_birsfelden_13.jpg)
 
 ![](/img/20220715_ms_res_birsfelden_12.jpg)
 
-*Rheinfelden. Wirklich gelungenes Städtchen.*
-
-![](/img/20220715_ms_res_birsfelden_14.jpg)
-
 ![](/img/20220715_ms_res_birsfelden_15.jpg)
+
+Ab hier verkehren erste grosse Schiffe auf der Aare.
 
 ![](/img/20220715_ms_res_birsfelden_16.jpg)
 
