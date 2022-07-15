@@ -14,7 +14,7 @@ Please don't you rock my boat, no
 
 *Bob Marley and the Wailers - Don't rock my boat*
 
-Wir starten von Birsfelden.
+Wir starten von Birsfelden und erreichen bald Laufenstadt.
 
 ![](/img/20220715_ms_res_birsfelden_0.jpg)
 
@@ -24,13 +24,21 @@ Wir starten von Birsfelden.
 
 ![](/img/20220715_ms_res_birsfelden_3.jpg)
 
+Von der angekündigten gefährlichen Strömung merken wir nichts, wahrscheinlich hat's viel zu wenig Wasser.
+
+Wir fahren nach Kaffee und Pralinen weiter und schleusen mal wieder.
+
 ![](/img/20220715_ms_res_birsfelden_4.jpg)
 
 ![](/img/20220715_ms_res_birsfelden_5.jpg)
 
+Bald darauf gibt's auch Bähnchen in Selbstbedienung:
+
 ![](/img/20220715_ms_res_birsfelden_6.jpg)
 
 ![](/img/20220715_ms_res_birsfelden_7.jpg)
+
+Danach passieren wir die längste Holzbrücke Europas, die Holzbrücke Bad Säckingen.
 
 ![](/img/20220715_ms_res_birsfelden_8.jpg)
 
@@ -66,7 +74,7 @@ Wir starten von Birsfelden.
 
 ![](/img/20220715_ms_res_birsfelden_24.jpg)
 
-![](/img/20220715_ms_res_birsfelden_25.jpg).
+![](/img/20220715_ms_res_birsfelden_25.jpg)
 
 ![](/img/20220715_ms_res_birsfelden_26.jpg)
 
