@@ -14,7 +14,7 @@ Please don't you rock my boat, no
 
 *Bob Marley and the Wailers - Don't rock my boat*
 
-Wir starten von Laufenstadt und erreichen bald Birsfelden.
+Wir starten von Laufenburg und erreichen bald Birsfelden.
 
 ![](/img/20220715_ms_res_birsfelden_0.jpg)
 
