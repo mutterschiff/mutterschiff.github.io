@@ -71,6 +71,8 @@ Ab hier verkehren erste grosse Schiffe auf der Aare.
 
 ![](/img/20220715_ms_res_birsfelden_17.jpg)
 
+Die Aare wird hier richtig breit. Auch dem Bordbasilikum geht's prächtig.
+
 ![](/img/20220715_ms_res_birsfelden_18.jpg)
 
 ![](/img/20220715_ms_res_birsfelden_19.jpg)
@@ -79,6 +81,8 @@ Ab hier verkehren erste grosse Schiffe auf der Aare.
 
 ![](/img/20220715_ms_res_birsfelden_21.jpg)
 
+*Nice Wolken*
+
 ![](/img/20220715_ms_res_birsfelden_22.jpg)
 
 ![](/img/20220715_ms_res_birsfelden_23.jpg)
@@ -86,6 +90,9 @@ Ab hier verkehren erste grosse Schiffe auf der Aare.
 ![](/img/20220715_ms_res_birsfelden_24.jpg)
 
 ![](/img/20220715_ms_res_birsfelden_25.jpg)
+
+Wir legen in einer Weidlingfamilie beim Wasserfahrverein Birsfelden an, wo wir die sanitären Anlagen benützen dürfen, vielen Dank.
+Hier wird ebenfalls übernachtet. Am nächsten Morgen kommt die erste richtig dicke Schleuse. Eine riesen Wasserverschwendung, da das kleine Mutterschiff allein in der Schleuse bleibt.
 
 ![](/img/20220715_ms_res_birsfelden_26.jpg)
 
@@ -102,6 +109,8 @@ Ab hier verkehren erste grosse Schiffe auf der Aare.
 ![](/img/20220715_ms_res_birsfelden_32.jpg)
 
 ![](/img/20220715_ms_res_birsfelden_33.jpg)
+
+*Einfahrt nach Basel*
 
 ![](/img/20220715_ms_res_birsfelden_34.jpg)
 
