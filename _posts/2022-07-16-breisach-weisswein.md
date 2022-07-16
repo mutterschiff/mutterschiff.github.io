@@ -5,7 +5,7 @@ date:   2022-07-16
 published: false
 ---
 
-##  Ab Breisach ##
+##  Ab Breisach nach Weisswein ##
 
 Wir machen eine kleine Stadttour durch Breisach und haben Zugang zu modernen sanitären Einrichtungen, um unserer Verwilderung etwas entgegenzusteuern.
 
@@ -42,5 +42,3 @@ Wir machen eine kleine Stadttour durch Breisach und haben Zugang zu modernen san
 ![](/img/20220715_ms_res_breisach_15.jpg)
 
 ![](/img/20220715_ms_res_breisach_16.jpg)
-
-
