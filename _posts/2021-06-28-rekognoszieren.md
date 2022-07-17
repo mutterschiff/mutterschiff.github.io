@@ -90,4 +90,3 @@ Nur kurz nach Brugg landet man in der [Stilli](https://de.wikipedia.org/wiki/Sti
 
 [^1]: https://de.wikipedia.org/wiki/Brugg
 [^2]: https://aarelauf.ch/die-aareschlucht-in-brugg/
-
