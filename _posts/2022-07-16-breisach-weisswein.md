@@ -19,6 +19,9 @@ Wir machen eine kleine Stadttour durch Breisach und haben Zugang zu modernen san
 
 ![](/img/20220716_ms_res_breisach_4.jpg)
 
+Es gibt Schiffe, die sind aneinander gebunden und fahren so den Bach runter.
+Wie moderne Päärchen.
+
 ![](/img/20220716_ms_res_breisach_5.jpg)
 
 ![](/img/20220716_ms_res_breisach_6.jpg)
