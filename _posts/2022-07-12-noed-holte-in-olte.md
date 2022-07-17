@@ -108,7 +108,7 @@ Und weiter geht's Richtung Kraftwerk Rüchlig, wo wir Tipps zur Weiterfahrt erha
 
 Wir sind froh, als sich die Sonne dem Horizont nähert, denn es ist sehr heiss!
 
-In einer wunderbaren Auenlandschaft landet das Mutterschiff
+In einer wunderbaren Auenlandschaft landet das Mutterschiff:
 
 ![](/img/20220713_ms_res_olten_30.jpg)
 
