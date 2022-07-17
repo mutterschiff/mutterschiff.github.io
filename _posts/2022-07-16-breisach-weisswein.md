@@ -51,6 +51,6 @@ Abends gönnen wir uns ein Konzert mit allen grossen Hits.
 
 ![](/img/20220717_ms_res_breisach_0.jpg)
 
-Die grossen Passagierschiffe sind tannenbaummässig beleuchtet und fahren rauf und runter.
+Die grossen Passagierschiffe sind tannenbaummässig beleuchtet und fahren rauf und runter. #nofilter
 
 ![](/img/20220717_ms_res_breisach_1.jpg)
