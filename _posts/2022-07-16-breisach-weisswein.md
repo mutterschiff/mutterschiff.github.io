@@ -38,6 +38,8 @@ Wie moderne Päärchen.
 
 ![](/img/20220716_ms_res_breisach_12.jpg)
 
+Abends laufen wir in Weissweil ein. Hiess wahrscheinlich ursprünglich mal "Weißwein".
+
 ![](/img/20220716_ms_res_breisach_13.jpg).
 
 ![](/img/20220716_ms_res_breisach_14.jpg)
