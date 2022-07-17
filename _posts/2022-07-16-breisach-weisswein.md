@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  23. Von Breisach nach Weiswein
+title:  23. Von Breisach nach Weisswein
 date:   2022-07-16
 ---
 
