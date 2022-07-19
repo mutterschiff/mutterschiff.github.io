@@ -35,7 +35,7 @@ Und noch mehr Stadttour:
 
 ![](/img/20220719__ms_res_strassburg_6.jpg)
 
-Strassburg hat auch vollschlanke Bisamratten.
+Strassburg hat auch vollschlanke Bisamratten. Ich schreibe absichtlich vollschlank und nicht etwa andere Begriffe, weil die Teilmenge unseres Freundeskreises, die <= 25 Jahre ist, den Vorwurf des Bisamshamings bringt.
 
 ![](/img/20220719__ms_res_strassburg_7.jpg)
 
