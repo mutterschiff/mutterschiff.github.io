@@ -7,7 +7,7 @@ published: false
 
 ##  Strassburg, encore une fois ##
 
-Wir entscheiden, noch einmal in Kehl (grad' bei Strassburg) zu übernachten. Dies erlaubt uns, ein wenig Reparaturen vorzunehmen, Wäsche zu waschen und ein wenig in der Stadt Leute zu beobachten.
+Wir entscheiden, noch einmal in Kehl (grad' bei Strassburg) zu übernachten. Dies erlaubt uns, ein wenig Reparaturen vorzunehmen, Wäsche zu waschen und in der Stadt Leute zu beobachten.
 
 
 
@@ -23,7 +23,7 @@ Danach Stadttour mit viel Kaffee und Gebäck.
 
 ![](/img/20220719__ms_res_strassburg_3.jpg)
 
-*Tannzäpfle am Mikro*
+*Tannzäpfle am Mikro.*
 
 ![](/img/20220719__ms_res_strassburg_4.jpg)
 
@@ -35,7 +35,7 @@ Und noch mehr Stadttour:
 
 ![](/img/20220719__ms_res_strassburg_6.jpg)
 
-Strassburg hat auch dicke Bisamratten.
+Strassburg hat auch vollschlanke Bisamratten.
 
 ![](/img/20220719__ms_res_strassburg_7.jpg)
 
