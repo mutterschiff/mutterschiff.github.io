@@ -35,7 +35,7 @@ Und noch mehr Stadttour:
 
 ![](/img/20220719__ms_res_strassburg_6.jpg)
 
-Strassburg hat auch vollschlanke [Bisamratten](https://de.m.wikipedia.org/wiki/Bisamratte).
+Strassburg hat auch vollschlanke [Bisamratten](https://de.m.wikipedia.org/wiki/Bisamratte):
 
 ![](/img/20220719__ms_res_strassburg_7.jpg)
 
