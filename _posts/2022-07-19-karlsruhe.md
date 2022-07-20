@@ -129,10 +129,13 @@ Wir nähern uns Karlsruhe:
 
 ![](/img/20220719__ms_res_karlsruhe_42.jpg)
 
-So sieht unser Käse aus (1 Tag).
+So sieht unser Käse aus (nach 1 Tag).
 
 ![](/img/20220719__ms_res_karlsruhe_43.jpg)
 
 ![](/img/20220719__ms_res_karlsruhe_44.jpg)
 
 ![](/img/20220719__ms_res_karlsruhe_45.jpg)
+
+
+Wie kann man die Anzahl PS eines Motorboot-Fahrers in Maxsau erkennen? Er sagt's dir.
