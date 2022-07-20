@@ -9,13 +9,11 @@ published: true
 
 Wir entscheiden, noch einmal in Kehl (grad' bei Strassburg) zu übernachten. Dies erlaubt uns, ein wenig Reparaturen vorzunehmen, Wäsche zu waschen und in der Stadt Leute zu beobachten.
 
-
-
 Nach dem Aufstehen gibt's schon mal ein Feuer in einer Recyclingfabrik, die Rauchsäule sieht man kilometerweit.
 
 ![](/img/20220719__ms_res_strassburg_1.jpg)
 
-Danach Stadttour mit viel Kaffee und Gebäck.
+Danach Stadttour mit viel Kaffee und Gebäck. Im Edeka macht Ekko Fresh Werbung. Soviel Wackness haben wir nicht verdient.
 
 ![](/img/20220719__ms_res_strassburg_2.jpg)
 
