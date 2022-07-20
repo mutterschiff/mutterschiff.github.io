@@ -7,9 +7,16 @@ published: false
 
 ##   Strassburg nach Karlsruhe ##
 
+Im Kehler Hafen kriegen wir nach dem Aufwachen gleich Kaffee ans Mutterschiff gebracht.
+Traumhaft.
+
 ![](/img/20220719__ms_res_karlsruhe_0.jpg)
 
+Danach erstmal bischen schleusen zum Aufwachen.
+
 ![](/img/20220719__ms_res_karlsruhe_1.jpg)
+
+Bei der Gendarmerie mal nett vorbeigefahren.
 
 ![](/img/20220719__ms_res_karlsruhe_2.jpg)
 
@@ -17,33 +24,47 @@ published: false
 
 ![](/img/20220719__ms_res_karlsruhe_4.jpg)
 
+Die Aare wird hier regelmässig gestutzt, damit der Warenverkehr immer rund läuft.
+
 ![](/img/20220719__ms_res_karlsruhe_5.jpg)
 
 ![](/img/20220719__ms_res_karlsruhe_6.jpg)
 
 ![](/img/20220719__ms_res_karlsruhe_7.jpg)
 
+*Schiffe*
+
 ![](/img/20220719__ms_res_karlsruhe_8.jpg)
 
 ![](/img/20220719__ms_res_karlsruhe_9.jpg)
 
-![](/img/20220719__ms_res_karlsruhe_10.jpg):
+*Fähren*
+
+![](/img/20220719__ms_res_karlsruhe_10.jpg)
+
+*Schiffe*
 
 ![](/img/20220719__ms_res_karlsruhe_11.jpg)
 
+*Motorboote*
+
 ![](/img/20220719__ms_res_karlsruhe_12.jpg)
 
-![](/img/20220719__ms_res_karlsruhe_13.jpg).
+![](/img/20220719__ms_res_karlsruhe_13.jpg)
 
-![](/img/20220719__ms_res_karlsruhe_14.jpg)
+*Schiffe*
 
 ![](/img/20220719__ms_res_karlsruhe_15.jpg)
 
-![](/img/20220719__ms_res_karlsruhe_16.jpg)
-
 ![](/img/20220719__ms_res_karlsruhe_17.jpg)
 
+![](/img/20220719__ms_res_karlsruhe_16.jpg)
+
+*Badische Südsee und km 333*
+
 ![](/img/20220719__ms_res_karlsruhe_18.jpg)
+
+*Und Schiffe*
 
 ![](/img/20220719__ms_res_karlsruhe_19.jpg)
 
@@ -52,6 +73,8 @@ published: false
 ![](/img/20220719__ms_res_karlsruhe_21.jpg)
 
 ![](/img/20220719__ms_res_karlsruhe_22.jpg)
+
+Danke Schleuse Iffezheim. Das wussten wir gar nicht.
 
 ![](/img/20220719__ms_res_karlsruhe_23.jpg)
 
