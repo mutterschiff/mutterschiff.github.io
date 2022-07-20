@@ -80,27 +80,7 @@ Danke Schleuse Iffezheim. Das wussten wir gar nicht.
 
 ![](/img/20220719__ms_res_karlsruhe_24.jpg)
 
-![](/img/20220719__ms_res_karlsruhe_25.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_26.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_27.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_28.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_29.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_30.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_31.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_32.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_33.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_33.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_33.jpg)
+Kanadagänse:
 
 ![](/img/20220719__ms_res_karlsruhe_25.jpg)
 
@@ -108,31 +88,24 @@ Danke Schleuse Iffezheim. Das wussten wir gar nicht.
 
 ![](/img/20220719__ms_res_karlsruhe_27.jpg)
 
-![](/img/20220719__ms_res_karlsruhe_28.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_29.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_30.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_31.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_32.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_33.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_33.jpg)
-
-![](/img/20220719__ms_res_karlsruhe_33.jpg)
+Wir legen in einem Seitenarm an und kochen etwas zu essen. Den frühen Nachmittag verbringen wir im Schatten von grossen Bäumen.
+Für die Region ist eine Hitzewarnung rausgegeben worden.
 
 ![](/img/20220719__ms_res_karlsruhe_28.jpg)
 
 ![](/img/20220719__ms_res_karlsruhe_29.jpg)
 
+*Schiffe*
+
 ![](/img/20220719__ms_res_karlsruhe_30.jpg)
 
 ![](/img/20220719__ms_res_karlsruhe_31.jpg)
 
+*Fähre*
+
 ![](/img/20220719__ms_res_karlsruhe_32.jpg)
+
+*Schiffe*
 
 ![](/img/20220719__ms_res_karlsruhe_33.jpg)
 
