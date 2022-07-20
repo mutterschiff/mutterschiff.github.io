@@ -2,7 +2,7 @@
 layout: post
 title:  26. Strassburg nach Karlsruhe
 date:   2022-07-19
-published: false
+published: true
 ---
 
 ##   Strassburg nach Karlsruhe ##
@@ -60,7 +60,7 @@ Die Aare wird hier regelmässig gestutzt, damit der Warenverkehr immer rund läu
 
 ![](/img/20220719__ms_res_karlsruhe_16.jpg)
 
-*Badische Südsee und km 333*
+*Badische Südsee und km 333.*
 
 ![](/img/20220719__ms_res_karlsruhe_18.jpg)
 
@@ -115,6 +115,8 @@ Für die Region ist eine Hitzewarnung rausgegeben worden.
 
 ![](/img/20220719__ms_res_karlsruhe_36.jpg)
 
+Wir nähern uns Karlsruhe:
+
 ![](/img/20220719__ms_res_karlsruhe_37.jpg)
 
 ![](/img/20220719__ms_res_karlsruhe_38.jpg)
@@ -126,6 +128,8 @@ Für die Region ist eine Hitzewarnung rausgegeben worden.
 ![](/img/20220719__ms_res_karlsruhe_41.jpg)
 
 ![](/img/20220719__ms_res_karlsruhe_42.jpg)
+
+So sieht unser Käse aus (1 Tag).
 
 ![](/img/20220719__ms_res_karlsruhe_43.jpg)
 
