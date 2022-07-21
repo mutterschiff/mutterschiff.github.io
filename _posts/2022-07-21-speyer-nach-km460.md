@@ -7,9 +7,18 @@ published: false
 
 ##  Speyer nach nach km 460 ##
 
-Speyer: wie in Laufenburg unglaublich schlimme Denkmäler aus der Kriegszeit. Weder Kontextualisierung oder ähnliches. Man bleibt staunend zurück. Schlimm.
+Speyer: wie in Laufenburg unglaublich schlimme Denkmäler aus der Kriegszeit. 
+Weder Kontextualisierung oder ähnliches. Man bleibt staunend zurück. Schlimm.
+
+Themawechsel: heute hat es das erste mal geregnet. Wir wollten eigentlich draussen übernachten, aber die Wetterprognose hat Gewitter vorausgesagt. Also sind wir wieder in einem _dieser_ Häfen.
+Yachtclub Speyer war aber sehr angenehm. Leider ist heute alles mit Codes und Codekarten geregelt.
+
+Jedenfalls kam dann der Regen. Wir sassen schob in einer Pizzeria, vorher haben wir das erste Mal seit dem 8.7.22 (!) unser patentiertes Refendacg installiert.
+Alles hat gepasst und in Anbetracht, dass das eine geschenkte Persenning war, die wir ohne Persenningmacher selbst angepasst haben... Wir waren äuaserst zufrieden!
 
 ![](/img/20220721__ms_res_speyer_0.jpg)
+
+*Yoga vorm Schlafen*
 
 ![](/img/20220721__ms_res_speyer_1.jpg)
 
