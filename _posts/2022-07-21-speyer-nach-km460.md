@@ -13,7 +13,7 @@ Weder Kontextualisierung oder ähnliches. Man bleibt staunend zurück. Schlimm.
 Themawechsel: heute hat es das erste mal geregnet. Wir wollten eigentlich draussen übernachten, aber die Wetterprognose hat Gewitter vorausgesagt. Also sind wir wieder in einem _dieser_ Häfen.
 Yachtclub Speyer war aber sehr angenehm. Leider ist heute alles mit Codes und Codekarten geregelt.
 
-Jedenfalls kam dann der Regen. Wir sassen schob in einer Pizzeria, vorher haben wir das erste Mal seit dem 8.7.22 (!) unser patentiertes Refendach installiert, weils seither wirklich noch nie geregnet hat!
+Jedenfalls kam dann der Regen. Wir sassen schon in einer Pizzeria, vorher haben wir das erste Mal seit dem 8.7.22 (!) unser patentiertes Regendach installiert, weils seither wirklich noch nie geregnet hat!
 Alles hat gepasst und in Anbetracht, dass das eine geschenkte Persenning war, die wir ohne Segelmacher selbst angepasst haben... Wir waren äusserst zufrieden!
 
 ![](/img/20220721__ms_res_speyer_0.jpg)
