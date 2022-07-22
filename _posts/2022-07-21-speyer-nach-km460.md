@@ -38,6 +38,10 @@ Wir werden gefilmt und Schiffsmeister A. von R. wird interviewt.
 
 ![](/img/20220721__ms_res_speyer_5.jpg)
 
+Danach Auslaufen, Storch und Fahrt durch riesen Industriegebiet Mannheim, Ludwigshafen. Hier ist die Industrie und Xavier Naidoo zuhause und das riecht man.
+
+Frei nach Stiller Has: *"Mannheim, dürefahre, dürefahre."*
+
 ![](/img/20220721__ms_res_speyer_6.jpg)
 
 ![](/img/20220721__ms_res_speyer_7.jpg)
