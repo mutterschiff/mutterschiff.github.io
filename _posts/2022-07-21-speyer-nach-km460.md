@@ -32,7 +32,7 @@ Noch einmal durch Speyer spazieren und Einkaufen. Schon wieder einer dieser Brie
 
 ![](/img/20220721__ms_res_speyer_4.jpg)
 
-Nichts böses ahnend dreht bei unserer Rückkehr ein Fernsehteam des Westdeutschen Rundfunks (WDR) eine Reportage und nennt das Mutterschiff ein "kurioses Gerät".
+Nichts böses ahnend dreht bei unserer Rückkehr ein Fernsehteam des Südwest Rundfunks (SWR) eine Reportage und nennt das Mutterschiff ein "kurioses Gerät".
 Dilettantisch, wenn man bedenkt, wie kurios all' die schwimmenden Motorboote eigentlich sind. Wir klären den WDR dann über die falsche Namensgebung des Flusses auf, sie scheinen geschockt.
 Wir werden gefilmt und Schiffsmeister A. von R. wird interviewt.
 
