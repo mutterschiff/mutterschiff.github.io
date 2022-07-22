@@ -118,6 +118,8 @@ Frei nach Stiller Has: *"Mannheim, dürefahre, dürefahre."*
 
 ![](/img/20220721__ms_res_speyer_43.jpg)
 
+Danach low carb, raw vegan healthy. Stay tuned.
+
 ![](/img/20220721__ms_res_speyer_44.jpg)
 
 ![](/img/20220721__ms_res_speyer_45.jpg)
