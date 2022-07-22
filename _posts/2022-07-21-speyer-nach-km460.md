@@ -5,7 +5,7 @@ date:   2022-07-21
 published: false
 ---
 
-##  Speyer nach nach km 460 ##
+##  Von Speyer bis km 460 ##
 
 Speyer: wie in Laufenburg unglaublich schlimme Denkmäler aus der Kriegszeit. 
 Weder Kontextualisierung oder ähnliches. Man bleibt staunend zurück. Schlimm.
