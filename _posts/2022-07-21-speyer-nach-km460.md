@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  28. Speyer nach nach km 460
+title:  28. Speyer nach km 460
 date:   2022-07-21
 published: true
 ---
