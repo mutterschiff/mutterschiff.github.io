@@ -14,7 +14,7 @@ Themawechsel: heute hat es das erste mal geregnet. Wir wollten eigentlich drauss
 Yachtclub Speyer war aber sehr angenehm. Leider ist heute alles mit Codes und Codekarten geregelt.
 
 Jedenfalls kam dann der Regen. Wir sassen schon in einer Pizzeria, vorher haben wir das erste Mal seit dem 8.7.22 (!) unser patentiertes Regendach installiert, weils seither wirklich noch nie geregnet hat!
-Alles hat gepasst und in Anbetracht, dass das eine geschenkte Persenning war, die wir ohne Segelmacher selbst angepasst haben... Wir waren äusserst zufrieden und haben gleich Yoga vorm Schlafen:
+Alles hat gepasst und in Anbetracht, dass das eine geschenkte Persenning war, die wir ohne Segelmacher selbst angepasst haben... Wir waren äusserst zufrieden und haben gleich Yoga vorm Schlafen gemacht:
 
 ![](/img/20220721__ms_res_speyer_0.jpg)
 
@@ -24,15 +24,15 @@ Alles hat gepasst und in Anbetracht, dass das eine geschenkte Persenning war, di
 
 ![](/img/20220721__ms_res_speyer_2.jpg)
 
+Endlich vernünftige Temperaturen! Am nächsten Tag war die Luft etwas gereinigt und das Mutterschiff auch. 
+
 ![](/img/20220721__ms_res_speyer_3.jpg)
 
-Endlich vernünftige Temperaturen! Am nächsten Tag war die Luft etwas gereinigt und das Mutterschiff auch. 
+Noch einmal durch Speyer spazieren und Einkaufen. Schon wieder einer dieser Briefkästen, Deutschland ist wirklich sehr geregelt.
 
 ![](/img/20220721__ms_res_speyer_4.jpg)
 
 ![](/img/20220721__ms_res_speyer_5.jpg)
-
-Noch einmal durch Speyer spazieren und Einkaufen. Schon wieder einer dieser Briefkästen!
 
 ![](/img/20220721__ms_res_speyer_6.jpg)
 
