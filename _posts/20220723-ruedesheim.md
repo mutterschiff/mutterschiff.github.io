@@ -37,8 +37,6 @@ Wir fahren durch Mainz:
 
 ![](/img/20220724__ms_res_ruedesheim_9.jpg)
 
-![](/img/20220724__ms_res_ruedesheim_10.jpg)
-
 Hier etwa betritt das Mainzer Ordnungsamt die Bühne.
 
 ![](/img/20220724__ms_res_ruedesheim_11.jpg)
@@ -60,6 +58,7 @@ Etwa hier betreten wir erneut das Ufer (es ist nichts signalisiert!). Dann frage
 ![](/img/20220724__ms_res_ruedesheim_17.jpg)
 
 ![](/img/20220724__ms_res_ruedesheim_18.jpg)
+*Endlich vernünftige Schiffe*
 
 ![](/img/20220724__ms_res_ruedesheim_19.jpg)
 
@@ -89,15 +88,15 @@ Endlich können wir also das Eiland ansteuern. Es wird richtig untief und Mutter
 
 ![](/img/20220724__ms_res_ruedesheim_27.jpg)
 
-Weiter treffen wir ein Amphibienfahrzeug, das unseren Weg kreuzt.
-
 ![](/img/20220724__ms_res_ruedesheim_28.jpg)
+
+Weiter treffen wir ein Amphibienfahrzeug, das unseren Weg kreuzt:
 
 ![](/img/20220724__ms_res_ruedesheim_29.jpg)
 
-Schliesslich - endlich - legen wir am Ende einer Insel an. Wir fragen die dortigen Fischer, ob das jetzt legal ist. Im Folgenden das Fischerverzeichnis des Bundeslandes, mit dreistelliger Angabe nach dem Komma, wo genau hier angelegt werden darf:
+Schliesslich - endlich - legen wir am Ende dieser Insel an. Wir fragen die dortigen Fischer, ob das jetzt legal ist. Im Folgenden das Fischerverzeichnis des Bundeslandes, mit dreistelliger Angabe nach dem Komma, wo genau hier angelegt werden darf:
 
-![](/img/20220724__ms_res_ruedesheim_32.jpg)
+![](/img/20220724__ms_res_ruedesheim_33.jpg)
 
 Da haben wir Glück gehabt, das Ordnungsamt Mainz wäre stolz auf uns.
 
