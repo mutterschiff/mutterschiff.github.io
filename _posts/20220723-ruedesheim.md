@@ -33,6 +33,8 @@ Wir fahren durch Mainz:
 
 ![](/img/20220724__ms_res_ruedesheim_8.jpg)
 
+*Endlich vernünftige Schiffe*
+
 ![](/img/20220724__ms_res_ruedesheim_9.jpg)
 
 ![](/img/20220724__ms_res_ruedesheim_10.jpg)
