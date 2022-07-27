@@ -5,7 +5,19 @@ date:   2022-07-26
 published: false
 ---
 
-##  Von Koblenz auf den Drachenfelsen ##
+## Hochalpin auf den Drachenfelsen ##
+
+>Geschrei erfüllt eine unerhörte Landschaft
+Im Namen einer geliebten Fussballmannschaft
+Und was soll man da noch sagen?
+Das Land muss seine Leute ertragen
+
+*Retrogott - Land und Leute*
+
+
+
+Heute gibt's keine Bilder der Abfahrt von Koblenz, Batterie war alle.
+Hier Bilder der Ankunft in [Bad Honnef](https://de.m.wikipedia.org/wiki/Bad_Honnef):
 
 ![](/img/20220727__ms_res_donneff_0.jpg)
 
