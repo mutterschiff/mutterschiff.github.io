@@ -33,6 +33,8 @@ Der Smutje am Steuer fragt nach, ob er denn selbst auch fahren dürfe, obwohl er
 
 ![](/img/20220727__ms_res_km673_4.jpg)
 
+Km 666! Danach anlegen und Feuer, nachdem wir abgeklärt haben, ob wir in einem Naturschutzgebiet sind.
+
 ![](/img/20220727__ms_res_km673_5.jpg)
 
 ![](/img/20220727__ms_res_km673_6.jpg)
