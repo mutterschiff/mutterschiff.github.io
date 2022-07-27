@@ -25,7 +25,7 @@ Hier Bilder der Ankunft in [Bad Honnef](https://de.m.wikipedia.org/wiki/Bad_Honn
 
 ![](/img/20220727__ms_res_donneff_2.jpg)
 
-Da wir die ganze Reise hindurch nur Wagner gehört haben, ist der Besuch der Nibelungenhalle ein Muss.
+Da wir die ganze Reise hindurch ausschliesslich Wagner gehört haben, ist der Besuch der Nibelungenhalle ein Muss.
 
 ![](/img/20220727__ms_res_donneff_3.jpg)
 
@@ -34,8 +34,6 @@ Da wir die ganze Reise hindurch nur Wagner gehört haben, ist der Besuch der Nib
 Wir werden zwar mehrmals vom massivem Aufstieg gewarnt (> 200 Höhenmeter!!), aber wir schaffen es und erreichen Burg Drachenfels. Die Aussicht ist top! Von weitem sieht man bereits den Kölner Dom.
 
 ![](/img/20220727__ms_res_donneff_5.jpg)
-
-![](/img/20220727__ms_res_donneff_6.jpg)
 
 ![](/img/20220727__ms_res_donneff_7.jpg)
 
