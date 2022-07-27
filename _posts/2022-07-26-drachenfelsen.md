@@ -14,7 +14,7 @@ Das Land muss seine Leute ertragen.
 
 *Retrogott - Land und Leute*
 
-[![Retrogott - Land und Leute](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Retrogott - Land und Leute")
+[![Retrogott - Land und Leute](http://img.youtube.com/vi/98pwj8ZQ-I4/0.jpg)](http://www.youtube.com/watch?v=98pwj8ZQ-I4 "Retrogott - Land und Leute")
 
 
 Heute gibt's keine Bilder der Abfahrt von Koblenz, Batterie war alle.
