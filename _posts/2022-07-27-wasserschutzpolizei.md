@@ -21,7 +21,7 @@ So können wir ohne zu Zögern vom Mutterschiff aus direkt am entgegengestreckte
 
 Der Kommissar bescheinigt: das Mutterschiff sei ordentlich ausgerüstet und wir führen auch ordentlich. Die Aare sei aber eben gefährlich! Wenn das Alfred hören dürfte!
 
-Der Smutje am Steuer fragt nach, ob er denn selbst auch fahren dürfe, obwohl er ja keinen solchen Ausweis hat. Antwort vom Kommissar: Ja, aber nur, wenn ich genau alles mache, was Schiffsmeister A. von R. sage. Seither ist das Bordleben geregelt und sehe streng.
+Der Smutje am Steuer fragt nach, ob er denn selbst auch fahren dürfe, obwohl er ja keinen solchen Ausweis hat. Antwort vom Kommissar: Ja, aber nur, wenn ich genau alles mache, was Schiffsmeister A. von R. sage. Seither ist das Bordleben geregelt und sehr streng.
 
 ![](/img/20220727__ms_res_km673_0.jpg)
 
