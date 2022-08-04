@@ -23,15 +23,22 @@ Das Beiboot unserer Gastgeber ist ähnlich konstruiert wie das Mutterschiff.
 
 ![](/img/20220804__ms_res_sliedrecht_4.jpg)
 
+*Neue Vögel*
+
 ![](/img/20220804__ms_res_sliedrecht_5.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_6.jpg)
+
+*Und alte Bekannte*
 
 ![](/img/20220804__ms_res_sliedrecht_7.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_8.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_9.jpg)
+
+Die Heckwellen der grossen Schlepper / Schubverbände ziehen ziemlich grosse Wellen nach sich.
+Auf den kleineren kann man das Mutterschiff ins Gleiten bringen, auf den grösseren besser nicht!
 
 ![](/img/20220804__ms_res_sliedrecht_10.jpg)
 
