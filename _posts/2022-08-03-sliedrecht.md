@@ -19,6 +19,8 @@ Danach rudern wir aus dem für die meisten Schiffe viel zu untiefen Hafen, bis w
 
 ![](/img/20220804__ms_res_sliedrecht_3.jpg)
 
+Das Beiboot unserer Gastgeber ist ähnlich konstruiert wie das Mutterschiff.
+
 ![](/img/20220804__ms_res_sliedrecht_4.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_5.jpg)
