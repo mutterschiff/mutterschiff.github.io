@@ -76,16 +76,19 @@ Die Wasserstrassen hier sind riesig und aufgefächert. Wir versuchen dem Grossve
 
 ![](/img/20220804__ms_res_sliedrecht_25.jpg)
 
+Die Motorböötler gehen auch hier ihrer Tätigkeit nach.
+
 ![](/img/20220804__ms_res_sliedrecht_26.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_27.jpg)
 
-![](/img/20220804__ms_res_sliedrecht_28.jpg).
+![](/img/20220804__ms_res_sliedrecht_28.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_29.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_30.jpg)
 
 Schliesslich fahren wir in den Hafen bei Sliedrecht, km 970 ein. Noch 53km bis zum Aaredelta Rotterdam.
+Im Hafenbecken schwimmen zwei tote Enten, als es eindunkelt werden sie von vermutlich Bisamratten aufgegessen. Die Natur kehrt zurück!
 
 ![](/img/20220804__ms_res_sliedrecht_31.jpg)
