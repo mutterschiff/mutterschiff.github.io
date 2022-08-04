@@ -2,7 +2,7 @@
 layout: post
 title:  39. Auf der Waare
 date:   2022-08-03
-published: false
+published: true
 ---
 
 ## Bis kurz vor Rotterdam ##
