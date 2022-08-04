@@ -86,4 +86,6 @@ Die Wasserstrassen hier sind riesig und aufgefächert. Wir versuchen dem Grossve
 
 ![](/img/20220804__ms_res_sliedrecht_30.jpg)
 
+Schliesslich fahren wir in den Hafen bei Sliedrecht, km 970 ein. Noch 53km bis zum Aaredelta Rotterdam.
+
 ![](/img/20220804__ms_res_sliedrecht_31.jpg)
