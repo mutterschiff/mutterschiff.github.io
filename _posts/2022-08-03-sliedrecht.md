@@ -1,17 +1,21 @@
 ---
 layout: post
-title:  39. Holland
+title:  39. Auf der Waare
 date:   2022-08-03
 published: false
 ---
 
 ## Bis kurz vor Rotterdam ##
 
+Nach einem abkühlenden Morgenbad gehen wir in ein Kaffee. Da gibt's auch gleich Eis dazu.
+
 ![](/img/20220804__ms_res_sliedrecht_0.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_1.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_2.jpg)
+
+Danach rudern wir aus dem für die meisten Schiffe viel zu untiefen Hafen, bis wir die Fahrrinne erreichen.
 
 ![](/img/20220804__ms_res_sliedrecht_3.jpg)
 
