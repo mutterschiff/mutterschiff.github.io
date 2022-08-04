@@ -89,6 +89,7 @@ Die Motorböötler gehen auch hier ihrer Tätigkeit nach.
 ![](/img/20220804__ms_res_sliedrecht_30.jpg)
 
 Schliesslich fahren wir in den Hafen bei Sliedrecht, km 970 ein. Noch 53km bis zum Aaredelta Rotterdam.
-Im Hafenbecken schwimmen zwei tote Enten, als es eindunkelt werden sie von vermutlich Bisamratten aufgegessen. Die Natur kehrt zurück!
 
 ![](/img/20220804__ms_res_sliedrecht_31.jpg)
+
+Im Hafenbecken schwimmen zwei tote Enten. Als es eindunkelt, werden sie von (vermutlich) Bisamratten aufgegessen. Die Natur kehrt zurück!
