@@ -50,6 +50,8 @@ Der Basilikum hatte eine nicht nur einfache Zeit mit uns. Nachdem wir ihn in die
 
 ![](/img/20220804__ms_res_sliedrecht_13.jpg)
 
+Die Wasserstrassen hier sind riesig und aufgefächert. Wir versuchen dem Grossverkehr auszuweichen, soweit möglich.
+
 ![](/img/20220804__ms_res_sliedrecht_14.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_15.jpg)
