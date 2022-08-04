@@ -44,6 +44,8 @@ Auf den kleineren kann man das Mutterschiff ins Gleiten bringen, auf den grösse
 
 ![](/img/20220804__ms_res_sliedrecht_11.jpg)
 
+Der Basilikum hatte eine nicht nur einfache Zeit mit uns. Nachdem wir ihn in dieses schöne Griesspudding-Töpfchen gesetzt haben, hat er sich einigermassen erholt. Aber jetzt stehen wir vor Rotterdam.
+
 ![](/img/20220804__ms_res_sliedrecht_12.jpg)
 
 ![](/img/20220804__ms_res_sliedrecht_13.jpg)
