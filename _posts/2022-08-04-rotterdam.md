@@ -160,6 +160,5 @@ Danke auch an alle die grosszügigen Bierspenden, die uns bisher erreicht haben.
 Weiter möchten wir unseren Müttern danken, Urs für den Weidling, Marco und Joel für die tatkräftige schiffstechnische Betreuung, Mändli Bootsbau für eine Skizze und Photo eines Motorschachts, Alfred unserem Fahrlehrer und allen bisher unerwähnten Personen, insbesondere auch unserem Freundeskreis, der sich seit Jahren mit dem Mutterschiff beschäftigen muss(te).
 
 ### Wie weiter? ###
-Mit der von uns entwickelten *mothership-Methodik* lassen sich agile Team- and Persönlichkeitsentwicklung-Processes in kürzester Zeit hart *deploy-skalieren*.
+Mit der von uns entwickelten *mothership-Methodik* lassen sich agile Team- and Persönlichkeitsentwicklung-*Processes* in kürzester Zeit hart *deploy-skalieren*.
 Modernste Tech-Firmen dürfen sich hierzu gerne bei uns melden, um von dieser phantastischen Möglichkeit Gebrauch zu machen.
-
