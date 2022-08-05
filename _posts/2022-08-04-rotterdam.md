@@ -149,9 +149,12 @@ An dieser Stelle noch einige editorische Anmerkungen, die uns aufmerksame Leser 
 
 ### Danksagung ###
 Danke auch an alle die grosszügigen Bierspenden, die uns bisher erreicht haben. Beim momentanen Stand des Verkaufsprozesses des Mutterschiff sind diese sehr nötig und wir konnten bisher jede Bierspende zügig abtrinken.
-Möglicherweise wird diese Spende-Möglichkeit teilweise durch Adblocker ausgeblendet.
 
 <div style="float: right; margin:5px">
 <a href="https://www.buymeacoffee.com/mutterschiff"><img src="https://img.buymeacoffee.com/button-api/?text=Mutterschiff unterstützen!&emoji=🍺&slug=mutterschiff&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
 </div>
 
+(Möglicherweise wird diese Spende-Möglichkeit teilweise durch Adblocker ausgeblendet.)
+
+### Zusätzliche Danksagung ###
+Weiter möchten wir unseren Müttern danken, Urs für den Weidling, Marco und Joel für die schiffstechnische Betreuung, Mändli Bootsbau für eine Skizze und Photo eines Motorschachts, Alfred unserem Fahrlehrer (die korrekten Kommandos können wir immer noch nicht :))
