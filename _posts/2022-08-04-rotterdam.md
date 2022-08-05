@@ -144,7 +144,7 @@ An dieser Stelle noch einige editorische Anmerkungen, die uns aufmerksame Leser 
 
 - Das Pixel-Fenster im Kölner Dom wurde vom Künstler [Gerhard Richard](https://de.m.wikipedia.org/wiki/Richter-Fenster) entworfen.
 
-- Bei den "neu aufgetauchten" Vögel handelt es sich um Austernfischer.
+- Bei den "neu aufgetauchten" Vögel handelt es sich um [Austernfischer](https://de.m.wikipedia.org/wiki/Austernfischer).
 
 
 ### Danksagung ###
