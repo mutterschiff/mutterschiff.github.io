@@ -120,12 +120,20 @@ Der Hafen Rotterdam ist riesig (grösster Seehafen Europas) und es hat sehr viel
 
 ![](/img/20220804__ms_res_rotterdam_49.jpg)
 
+Natürlich gibt es nicht nur schöne Schiffe. Hier z.B. liegt das unsägliche Aida-Clubschiff:
+
 ![](/img/20220804__ms_res_rotterdam_50.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_51.jpg)
+
+Zum Ausgleich noch ein paar schöne Schiffe:
 
 ![](/img/20220804__ms_res_rotterdam_52.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_53.jpg)
 
+Das Mutterschiff hat eine riesen Strecke zurückgelegt:
+
 ![](/img/20220804__ms_res_rotterdam_54.jpg)
+
+Morgen werden wir überprüfen, ob die Aare nun wirklich ins Meer fliesst.
