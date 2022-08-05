@@ -145,3 +145,7 @@ An dieser Stelle noch einige editorische Anmerkungen, die uns aufmerksame Leser 
 - Das Pixel-Fenster im Kölner Dom wurde vom Künstler [Gerhard Richard](https://de.m.wikipedia.org/wiki/Richter-Fenster) entworfen.
 
 - Bei den "neu aufgetauchten" Vögel handelt es sich um .
+
+
+### Danksagung ###
+Danke auch an alle die grosszügigen Bierspenden, die uns bisher erreicht haben. Beim momentanen Stand des Verkaufsprozesses des Mutterschiff sind diese sehr nötig und wir konnten bisher jede Bierspende zügig abtrinken.
