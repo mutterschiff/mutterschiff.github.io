@@ -112,8 +112,6 @@ Der Hafen Rotterdam ist riesig (grösster Seehafen Europas) und es hat sehr viel
 
 ![](/img/20220804__ms_res_rotterdam_44.jpg)
 
-![](/img/20220804__ms_res_rotterdam_45.jpg)
-
 ![](/img/20220804__ms_res_rotterdam_46.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_47.jpg)
