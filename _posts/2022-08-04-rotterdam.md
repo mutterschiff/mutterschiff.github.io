@@ -71,6 +71,7 @@ Da Rotterdam sechs Meter unter dem Meeresspiegel liegt und mit Pumpen trocken ge
 ![](/img/20220804__ms_res_rotterdam_24.jpg)
 
 Der Hafen Rotterdam ist riesig (grösster Seehafen Europas) und es hat sehr viele Schiffe. Man muss sehr aufpassen. Die Schiffs-Taxis sind am rücksichtslosesten!
+Bei der Einfahrt aus der [Nieuwe Maas](https://en.m.wikipedia.org/wiki/Nieuwe_Maas) sehen wir als erstes eine Robbe!
 
 ![](/img/20220804__ms_res_rotterdam_25.jpg)
 
