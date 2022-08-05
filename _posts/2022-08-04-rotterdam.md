@@ -148,7 +148,7 @@ An dieser Stelle noch einige editorische Anmerkungen, die uns aufmerksame Leser 
 
 
 ### Danksagung ###
-Danke auch an alle die grosszügigen Bierspenden, die uns bisher erreicht haben. Beim momentanen Stand des Verkaufsprozesses des Mutterschiff sind diese sehr nötig und wir konnten bisher jede Bierspende zügig abtrinken.
+Danke auch an alle die grosszügigen Bierspenden, die uns bisher erreicht haben. Beim momentanen Stand des Verkaufsprozesses (siehe weiter unten, falls Sie dieses Schiff erwerben möchten) des Mutterschiff sind diese sehr nötig und wir konnten bisher jede Bierspende zügig abtrinken.
 
 <div style="float: right; margin:5px">
 <a href="https://www.buymeacoffee.com/mutterschiff"><img src="https://img.buymeacoffee.com/button-api/?text=Mutterschiff unterstützen!&emoji=🍺&slug=mutterschiff&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
