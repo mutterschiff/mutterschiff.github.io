@@ -78,7 +78,7 @@ Der Hafen Rotterdam ist riesig (grösster Seehafen Europas) und es hat sehr viel
 
 ![](/img/20220804__ms_res_rotterdam_27.jpg)
 
-![](/img/20220804__ms_res_rotterdam_28.jpg).
+![](/img/20220804__ms_res_rotterdam_28.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_29.jpg)
 
@@ -94,15 +94,15 @@ Der Hafen Rotterdam ist riesig (grösster Seehafen Europas) und es hat sehr viel
 
 ![](/img/20220804__ms_res_rotterdam_35.jpg)
 
-![](/img/20220804__ms_res_rotterdam_36.pg)
+![](/img/20220804__ms_res_rotterdam_36.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_37.jpg)
 
-![](/img/20220804__ms_res_rotterdam_38.pg)
+![](/img/20220804__ms_res_rotterdam_38.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_39.jpg)
 
-![](/img/20220804__ms_res_rotterdam_40.jpg).
+![](/img/20220804__ms_res_rotterdam_40.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_41.jpg)
 
@@ -120,12 +120,14 @@ Der Hafen Rotterdam ist riesig (grösster Seehafen Europas) und es hat sehr viel
 
 ![](/img/20220804__ms_res_rotterdam_48.jpg)
 
+![](/img/20220804__ms_res_rotterdam_49.jpg)
+
 ![](/img/20220804__ms_res_rotterdam_50.jpg)
 
-![](/img/20220804__ms_res_rotterdam_51.pg)
+![](/img/20220804__ms_res_rotterdam_51.jpg)
 
-![](/img/20220804__ms_res_rotterdam_52.pg)
+![](/img/20220804__ms_res_rotterdam_52.jpg)
 
-![](/img/20220804__ms_res_rotterdam_53.pg)
+![](/img/20220804__ms_res_rotterdam_53.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_54.jpg)
