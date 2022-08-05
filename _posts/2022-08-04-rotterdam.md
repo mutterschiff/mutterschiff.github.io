@@ -149,16 +149,16 @@ An dieser Stelle noch einige editorische Anmerkungen, die uns aufmerksame Leser 
 
 
 ### Danksagung ###
-Danke auch an alle die grosszügigen Bierspenden, die uns bisher erreicht haben. Beim momentanen Stand des Verkaufsprozesses (siehe weiter unten, falls Sie dieses Schiff erwerben möchten) des Mutterschiff sind diese sehr nötig und wir konnten bisher jede Bierspende zügig abtrinken.
+Danke auch an alle die grosszügigen Bierspenden, die uns bisher erreicht haben. Beim momentanen Stand des Verkaufsprozesses (siehe weiter unten, falls Sie dieses Schiff erwerben möchten) des Mutterschiffs, sind diese sehr nötig. Wir konnten bisher jede Bierspende zügig abtrinken.
 
 <div style="float: right; margin:5px">
 <a href="https://www.buymeacoffee.com/mutterschiff"><img src="https://img.buymeacoffee.com/button-api/?text=Mutterschiff unterstützen!&emoji=🍺&slug=mutterschiff&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
 </div>
 
-(Möglicherweise wird diese Spende-Möglichkeit teilweise durch Adblocker ausgeblendet.)
+(Möglicherweise wird diese Spende-Möglichkeit teilweise durch Adblocker ausgeblendet. Wenn Sie also oberhalb dieser Zeile kein Bild sehen, deaktivieren Sie testhalber den Adblocker für diese Seite.)
 
 ### Zusätzliche Danksagung ###
-Weiter möchten wir unseren Müttern danken, Urs für den Weidling, Marco und Joel für die tatkräftige handwerkliche und schiffstechnische Betreuung, Mändli Bootsbau für eine grosszügige Skizze und Photo eines Weidling mit Motorschachts und natürlich dem so strengen wie geduldigem Alfred, unserem Fahrlehrer. Dann auch allen bisher unerwähnten Personen, insbesondere auch unserem (noch?) Freundeskreis, der sich seit Jahren mit der Thematik Mutterschiff beschäftigen muss(te).
+Weiter möchten wir unseren Müttern danken, Urs für den Weidling, Marco und Joel für die tatkräftige handwerkliche und schiffstechnische Betreuung, Mändli Bootsbau für eine grosszügige Skizze und Photo eines Weidlings mit Motorschachts und natürlich dem so strengen wie geduldigen Alfred, unserem Fahrlehrer. Dann auch allen bisher unerwähnten Personen, insbesondere auch unserem (noch?) Freundeskreis, der sich seit Jahren mit der Thematik Mutterschiff beschäftigen muss(te).
 
 ### Wie weiter? ###
 Mit der von uns entwickelten *mothership-Methodik* lassen sich agile Team- and Persönlichkeitsentwicklung-*Processes* in kürzester Zeit hart *deploy-skalieren*.
