@@ -157,4 +157,7 @@ Danke auch an alle die grosszügigen Bierspenden, die uns bisher erreicht haben.
 (Möglicherweise wird diese Spende-Möglichkeit teilweise durch Adblocker ausgeblendet.)
 
 ### Zusätzliche Danksagung ###
-Weiter möchten wir unseren Müttern danken, Urs für den Weidling, Marco und Joel für die schiffstechnische Betreuung, Mändli Bootsbau für eine Skizze und Photo eines Motorschachts, Alfred unserem Fahrlehrer (die korrekten Kommandos können wir immer noch nicht :))
+Weiter möchten wir unseren Müttern danken, Urs für den Weidling, Marco und Joel für die tatkräftige schiffstechnische Betreuung, Mändli Bootsbau für eine Skizze und Photo eines Motorschachts, Alfred unserem Fahrlehrer und allen bisher unerwähnten Personen, insbesondere auch unserem Freundeskreis, der sich seit Jahren mit dem Mutterschiff beschäftigen muss(te).
+
+### Wie weiter? ###
+Gerne würden wir das Mutterschiff an Software-Firma verkaufen, den mit der von uns entwickelten *mothership-Methodik* lassen sich agile Team- and Persönlichkeitsentwicklung-Processes in kürzester Zeit hart deploy-skalieren.
