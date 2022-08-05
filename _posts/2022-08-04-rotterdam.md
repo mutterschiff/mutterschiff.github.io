@@ -52,7 +52,7 @@ Da Rotterdam sechs Meter unter dem Meeresspiegel liegt und mit Pumpen trocken ge
 
 ![](/img/20220804__ms_res_rotterdam_16.jpg)
 
-*Es ist verboten sich zu vermehren.*
+*"Es ist verboten sich zu vermehren."*
 
 ![](/img/20220804__ms_res_rotterdam_17.jpg)
 
@@ -69,6 +69,8 @@ Da Rotterdam sechs Meter unter dem Meeresspiegel liegt und mit Pumpen trocken ge
 ![](/img/20220804__ms_res_rotterdam_23.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_24.jpg)
+
+Der Hafen Rotterdam ist riesig (grösster Seehafen Europas) und es hat sehr viele Schiffe. Man muss sehr aufpassen. Die Schiffs-Taxis sind am rücksichtslosesten!
 
 ![](/img/20220804__ms_res_rotterdam_25.jpg)
 
@@ -117,8 +119,6 @@ Da Rotterdam sechs Meter unter dem Meeresspiegel liegt und mit Pumpen trocken ge
 ![](/img/20220804__ms_res_rotterdam_47.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_48.jpg)
-
-![](/img/20220804__ms_res_rotterdam_49.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_50.jpg)
 
