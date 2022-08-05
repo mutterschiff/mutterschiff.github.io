@@ -22,11 +22,15 @@ dem sogenannten [Rhein-Maas-Delta](https://de.wikipedia.org/wiki/Rhein-Maas-Delt
 
 ![](/img/20220804__ms_res_rotterdam_5.jpg)
 
+Hier kommen auch die richtig grossen Schiffe daher:
+
 ![](/img/20220804__ms_res_rotterdam_6.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_7.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_8.jpg)
+
+*km 999*
 
 ![](/img/20220804__ms_res_rotterdam_9.jpg)
 
