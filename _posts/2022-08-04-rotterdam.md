@@ -137,3 +137,11 @@ Das Mutterschiff hat eine riesen Strecke zurückgelegt:
 ![](/img/20220804__ms_res_rotterdam_54.jpg)
 
 Morgen werden wir überprüfen, ob die Aare nun wirklich ins Meer fliesst.
+
+
+### Editorische Anmerkungen ###
+An dieser Stelle noch einige editorische Anmerkungen, die uns aufmerksame Leser haben zukommen lassen:
+
+- Das Pixel-Fenster im Kölner Dom wurde vom Künstler [Gerhard Richard](https://de.m.wikipedia.org/wiki/Richter-Fenster) entworfen.
+
+- Bei den "neu aufgetauchten" Vögel handelt es sich um .
