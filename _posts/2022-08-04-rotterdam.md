@@ -136,7 +136,7 @@ Das Mutterschiff hat eine riesen Strecke zurückgelegt:
 
 ![](/img/20220804__ms_res_rotterdam_54.jpg)
 
-Morgen werden wir überprüfen, ob die Aare nun wirklich ins Meer fliesst.
+Morgen werden wir überprüfen, ob die Aare nun wirklich ins Meer fliesst. Um heute in den Hafen zu gelangen, mussten wir das erste Mal einige Kilometer "rückwärts" fahren.
 
 
 ### Editorische Anmerkungen ###
