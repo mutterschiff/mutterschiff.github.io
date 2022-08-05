@@ -162,3 +162,5 @@ Weiter möchten wir unseren Müttern danken, Urs für den Weidling, Marco und Jo
 ### Wie weiter? ###
 Mit der von uns entwickelten *mothership-Methodik* lassen sich agile Team- and Persönlichkeitsentwicklung-*Processes* in kürzester Zeit hart *deploy-skalieren*.
 Modernste Tech-Firmen dürfen sich hierzu gerne bei uns melden, um von dieser phantastischen Möglichkeit Gebrauch zu machen.
+
+Um dieses Angebot zu nutzen, **oder falls Sie das Mutterschiff kaufen möchten**, dann melden Sie sich unverbindlich bei unserem Consultant arne-jahn[ät]gmx.de .**
