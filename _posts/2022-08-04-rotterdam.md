@@ -38,6 +38,8 @@ Hier kommen auch die richtig grossen Schiffe daher:
 
 ![](/img/20220804__ms_res_rotterdam_11.jpg)
 
+Es gibt hier ausgeklügelte Hebebrücken. Als das Mutterschiff ankommt, wird gleich ein Teil angehoben.
+
 ![](/img/20220804__ms_res_rotterdam_12.jpg)
 
 ![](/img/20220804__ms_res_rotterdam_13.jpg)
@@ -46,7 +48,11 @@ Hier kommen auch die richtig grossen Schiffe daher:
 
 ![](/img/20220804__ms_res_rotterdam_15.jpg)
 
+Da Rotterdam sechs Meter unter dem Meeresspiegel liegt und mit Pumpen trocken gehalten wird, gibt es hier strenge Anweisungen zur Fortpflanzung:
+
 ![](/img/20220804__ms_res_rotterdam_16.jpg)
+
+*Es ist verboten sich zu vermehren.*
 
 ![](/img/20220804__ms_res_rotterdam_17.jpg)
 
