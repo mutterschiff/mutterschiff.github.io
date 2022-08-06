@@ -15,8 +15,8 @@ layout: home
 
 > ### Eine Anleitung in {{ site.posts | size }} Schritten.
 
-
-  <div><img src="/img/splash.jpg"></div>
+  <div><img src="/img2/20220806__ms_res_aaremeer_32.jpg"></div>
+  <!-- <div><img src="/img/splash.jpg"></div> -->
 
 
 <div>
