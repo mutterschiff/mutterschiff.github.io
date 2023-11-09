@@ -143,7 +143,7 @@ Morgen werden wir überprüfen, ob die Aare nun wirklich ins Meer fliesst. Um he
 ### Editorische Anmerkungen ###
 An dieser Stelle noch einige editorische Anmerkungen, die uns aufmerksame Leser haben zukommen lassen:
 
-- Das Pixel-Fenster im Kölner Dom wurde vom Künstler [Gerhard Richard](https://de.m.wikipedia.org/wiki/Richter-Fenster) entworfen.
+- Das Pixel-Fenster im Kölner Dom wurde vom Künstler [Gerhard Richter](https://de.m.wikipedia.org/wiki/Richter-Fenster) entworfen.
 
 - Bei den "neu aufgetauchten" Vögel handelt es sich um [Austernfischer](https://de.m.wikipedia.org/wiki/Austernfischer).
 
@@ -164,4 +164,4 @@ Weiter möchten wir unseren Müttern danken, Urs für den Weidling, Marco und Jo
 Mit der von uns entwickelten *mothership-Methodik* lassen sich agile Team- and Persönlichkeitsentwicklung-*Processes* in kürzester Zeit hart *deploy-skalieren*.
 Modernste Tech-Firmen dürfen sich hierzu gerne bei uns melden, um von dieser phantastischen Möglichkeit Gebrauch zu machen.
 
-Um dieses Angebot zu nutzen, **oder falls Sie das Mutterschiff kaufen möchten**, dann melden Sie sich unverbindlich bei unserem Consultant arne-jahn[ät]gmx.de .
+Um dieses Angebot zu nutzen, ~~oder falls Sie das Mutterschiff kaufen möchten~~ , dann melden Sie sich unverbindlich bei unserem Consultant arne-jahn[ät]gmx.de .
