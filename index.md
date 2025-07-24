@@ -17,13 +17,3 @@ layout: home
 <div>
 	<b>D'Aare geit ids Meer. U im Tierpark hets Meersäuli.</b> <i>Stiller Has - Aare</i>
 </div>
-
-
-<script>
-	// Changing the "Read more..." excerpts infos as it doesn't seem to be easy doable otherwise
-	document.addEventListener('DOMContentLoaded', function () {
-		document.querySelectorAll('a.read-more').forEach(el => {
-			el.textContent = ' … weiter lesen';
-		});
-	});
-</script>
