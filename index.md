@@ -13,7 +13,6 @@ layout: home
 <div>
 	<img src="/img2/20220806__ms_res_aaremeer_32.jpg">
 </div>
-<br/>
 <div>
 	<b>D Aare geit ids Meer. U im Tierpark hets Meersäuli.</b> <i>Stiller Has - Aare</i>
 </div>
