@@ -1,10 +1,10 @@
 <!-- footer.html is needed to avoid displaying the default footer -->
 
 <script>
-	// Changing the "Read more..." excerpts infos as it doesn't seem to be easy doable otherwise
-	document.addEventListener('DOMContentLoaded', function () {
-		document.querySelectorAll('a.read-more').forEach(el => {
-			el.textContent = ' … weiter lesen';
-		});
-	});
+  // Changing the "Read more..." excerpts infos as it doesn't seem to be easy doable otherwise
+  window.onload = function () {
+    document.querySelectorAll('a.read-more').forEach(el => {
+      el.textContent = ' … weiter lesen';
+    });
+  };
 </script>
