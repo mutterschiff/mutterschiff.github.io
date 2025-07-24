@@ -4,11 +4,7 @@
 layout: home
 ---
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<p/>
 
 ## Wie man einen Weidling umbaut und die Aare runterfährt. 
 
