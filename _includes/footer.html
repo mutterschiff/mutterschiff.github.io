@@ -1,29 +1,7 @@
 <!-- footer.html is needed to avoid displaying the default footer -->
 
 <script>
-  function updateReadMoreLinks() {
-    document.querySelectorAll('a.read-more').forEach(el => {
-      if (!el.dataset.updated) {
-        el.textContent = ' … weiter lesen';
-        el.dataset.updated = 'true'; // Mark as processed
-      }
-    });
-  }
+  console.log("✅ Script is running");
 
-  // Run once in case some links are already loaded
-  updateReadMoreLinks();
-
-  // Watch the DOM for any new nodes being added
-  const observer = new MutationObserver((mutationsList) => {
-    for (const mutation of mutationsList) {
-      if (mutation.addedNodes.length > 0) {
-        updateReadMoreLinks();
-      }
-    }
-  });
-
-  observer.observe(document.body, {
-    childList: true,
-    subtree: true,
-  });
+  // Your other code...
 </script>
