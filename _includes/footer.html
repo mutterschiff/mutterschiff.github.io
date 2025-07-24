@@ -3,5 +3,9 @@
 <script>
   console.log("✅ Script is running");
 
-  // Your other code...
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a.post-read-more').forEach(el => {
+      el.textContent = 'Continue reading…'; // or 'Continue reading' if you prefer
+    });
+  });
 </script>
