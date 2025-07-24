@@ -1,5 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
@@ -15,17 +14,10 @@ layout: home
 
 > ### Eine Anleitung in {{ site.posts | size }} Schritten.
 
-  <div><img src="/img2/20220806__ms_res_aaremeer_32.jpg"></div>
-  <!-- <div><img src="/img/splash.jpg"></div> -->
-
-
 <div>
+	<img src="/img2/20220806__ms_res_aaremeer_32.jpg">
+</div>
 <br/>
+<div>
 	<b>D Aare geit ids Meer. U im Tierpark hets Meersäuli.</b> <i>Stiller Has - Aare</i>
 </div>
-
-
-
-
-
-
