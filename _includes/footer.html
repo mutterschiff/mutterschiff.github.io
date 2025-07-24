@@ -1,11 +1,12 @@
 <!-- footer.html is needed to avoid displaying the default footer -->
 
 <script>
-  console.log("✅ Script is running");
-
   document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('a.post-read-more').forEach(el => {
-      el.textContent = 'Continue reading…'; // or 'Continue reading' if you prefer
+      el.textContent = '… weiter lesen';
+    });
+  document.querySelectorAll('p.post-meta').forEach(el => {
+      el.textContent = el.textContent.replace('Posted on', 'Logbucheintrag -');
     });
   });
 </script>
