@@ -3,4 +3,4 @@ This is a github-page blog about travelling down the river Aare from Bern to Rot
 _"Wie man einen Weidling umbaut und die Aare runterfährt.
 Eine Anleitung in 41 Schritten."_
 
-See: https://deinemutterschiff.github.io
+See: https://mutterschiff.github.io
